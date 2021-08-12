@@ -8,8 +8,8 @@ title_separator          : "-"
 subtitle                 : ""
 name                     : "Dan Runfola"
 description              : "The geoLab works to build a more secure, sustainable, and vibrant world through AI, machine learning, and geospatial data."
-url                      : "https://wmgeolab.github.io"
-baseurl                  : "/geolabWeb"
+url                      : "localhost:4000" #"https://wmgeolab.github.io"
+baseurl                  : #"/geolabWeb"
 repository               : "wmgeolab/geolabWeb"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/geoLabLogo_500_500.png"
@@ -274,3 +274,40 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _people
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+
+###Projects
+collections:
+    projects:
+        output: true
+        permalink: /:collection/:path/
+    people:
+        output: true
+        permalink: /:collection/:path/
+    news:
+        output: true
+        permalink: /:collection/:path/
