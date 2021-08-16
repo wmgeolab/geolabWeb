@@ -1,0 +1,10 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'grid' %}
+<div class="entries-{{ entries_layout }}">
+  {% include peopleDocuments-collection.html collection=page.collection %}
+</div>

@@ -1,0 +1,25 @@
+{% assign entries = site[include.collection] | where: "entryType", include.tagFilter %}
+
+{% if include.sort_by %}
+  {% assign entries = entries | sort: type %}
+{% endif %}
+
+
+
+{% if include.sort_order == 'reverse' %}
+  {% assign entries = entries | reverse %}
+{% endif %}
+
+{% assign curType=post.type %}
+
+{%- for post in entries -%}
+  {%- unless post.hidden -%}
+    {%- if post.type != curType -%}
+    {%- assign curType=post.type -%}
+    </div>
+    <div class="entries-grid" style="width:100%;">
+      <h2 class="grid__item">{{ post.type }}</h2>
+    {%- endif -%}
+    {% include people-single.html %}
+  {%- endunless -%}
+{%- endfor -%}

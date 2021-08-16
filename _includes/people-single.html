@@ -1,0 +1,28 @@
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+
+
+<div class="{{ include.type | default: 'grid' }}__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if post.avatar %}
+      <div class="u-photo">
+        <center><img src="{{ post.avatar | relative_url }}" alt="{{ post.name }}" itemprop="image" class="u-photo" style="border-radius: 50%;"></center>
+      </div>
+    {% endif %}
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+        <center><a href="{{ post.url | relative_url }}" rel="permalink">{{ post.name }}</a></center>
+    </h2>
+    {% include page__meta.html type=include.type %}
+    {% if post.bio %}<center><p class="archive__item-excerpt" itemprop="description">{{ post.bio | markdownify | strip_html | truncate: 160 }}</p></center>{% endif %}
+  </article>
+</div>
