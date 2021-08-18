@@ -1,0 +1,24 @@
+on:
+  workflow_dispatch
+  
+name: buildSite
+jobs:
+  buildgeoLabWebsite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone Repo
+        id: buildCheck
+        run: |
+             git clone https://github.com/wmgeolab/geolabWeb
+             pwd
+             ls
+      - name: Build Files
+        id: buildFiles
+        run: |
+              pip install pandas
+              python /home/runner/work/geolabWeb/geolabWeb/geolabWeb/assets/python/generateProjectsPeople.py
+              ls
+              ls geolabWeb
+              ls geolabWeb/_posts/projects
+       
+      
