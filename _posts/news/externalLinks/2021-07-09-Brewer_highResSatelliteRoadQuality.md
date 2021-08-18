@@ -32,7 +32,4 @@ otherAuthors:
   - author: 
     - authorName: Olivia Hettinger
     - authorLink: oliviahettingerfall2019
-  - author:
-    - authorName: Ethan Brewer
-    - authorLink: ethanethan
 ---
