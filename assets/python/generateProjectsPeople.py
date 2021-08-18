@@ -2,7 +2,7 @@ import pandas as pd
 import shutil
 import os
 
-rootOut = "/home/dan/git/geolabWeb/"
+rootOut = "/home/runner/work/geolabWeb/geolabWeb/geolabWeb/"
 
 #Remove older files
 try:
