@@ -9,4 +9,7 @@ links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'
     url: https://www.wm.edu/as/computerscience/faculty/kemper_p.php
+projects:
+  - name: "roadRunner: Estimation of Road Quality from Space"
+    link: /projects/roadrunner/
 ---

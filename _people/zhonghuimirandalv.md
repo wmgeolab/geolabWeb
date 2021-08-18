@@ -1,10 +1,10 @@
 ---
 layout: author
-name: Zhonghui "Miranda" Lv
+name: Zhonghui Miranda Lv
 type: Graduate Students
 webOrder: 3.0
-avatar: /assets/images/peopleImages/zhonghui.png
-permalink: /people/zhonghui
+avatar: /assets/images/peopleImages/zhonghuimirandalv.png
+permalink: /people/zhonghuimirandalv
 links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'

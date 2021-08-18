@@ -17,6 +17,25 @@ links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'
     url: https://www.danrunfola.com
+projects:
+  - name: "geoFellows"
+    link: /projects/geofellows/
+  - name: "geoBoundaries"
+    link: /projects/geoboundaries/
+  - name: "Mapping Healthcare Boundaries in Kenya"
+    link: /projects/healthcare-boundaries/
+  - name: "Migration and Machine Learning (MML) Project"
+    link: /projects/migration-machine-learning/
+  - name: "Global Education Observatory"
+    link: /projects/global-education-observatory/
+  - name: "Automated Georeferencing of Historic Maps"
+    link: /projects/auto-georeference-toponym/
+  - name: "roadRunner: Estimation of Road Quality from Space"
+    link: /projects/roadrunner/
+  - name: "Kenyan Healthcare: an AHP Approach to Capturing Implicit Human Preferences"
+    link: /projects/ahp-human-preferences/
+  - name: "Exploring South Africa Climate Vulnerability with MicroCensus Information"
+    link: /projects/climate-vuln-south-africa/
 ---
 I am an assistant professor of [Data Science](https://ds.wm.edu) and [Applied Science](https://as.wm.edu) at [William & Mary](https://www.wm.edu), currently working at the nexus of deep learning and satellite imagery analysis. I work with federal agencies and international NGOs to develop new and secure ways to measure, predict, and improve human wellbeing at micro to macro scales. In collaboration with my wonderful students in the [geoLab](https://geolab.wm.edu), I also help to provision [critical baseline data](https://www.geoboundaries.org) to the opensource community to improve data equality around the world.
 

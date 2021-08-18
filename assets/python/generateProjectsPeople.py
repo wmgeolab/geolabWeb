@@ -1,11 +1,17 @@
 import pandas as pd
 import shutil
+import os
 
 rootOut = "/home/dan/git/geolabWeb/"
 
 #Remove older files
-shutil.rmtree(rootOut + "_people/")
-shutil.rmtree(rootOut + "_posts/projects")
+try:
+    shutil.rmtree(rootOut + "_people/")
+    shutil.rmtree(rootOut + "_posts/projects")
+except:
+    print("Nothing to remove.")
+os.mkdir(rootOut + "_people/")
+os.mkdir(rootOut + "_posts/projects")
 
 #Grab the CSVs
 ssID = "1g8L6cfelu4E4d8dAU8G8NgDER418alHFid69LP_axm0"
@@ -101,6 +107,16 @@ for _, row in people.iterrows():
             outStr = outStr + "  - label: 'Website'\n"
             outStr = outStr + "    icon: 'fas fa-fw fa-link'\n"
             outStr = outStr + "    url: " + row["otherWeb"] + "\n"
+
+        #Projects
+        if(isinstance(row["Projects"], str)):
+            outStr = outStr + "projects:\n"
+            projectString = row["Projects"].split(',')
+            for i in projectString:
+                projFullName = projects[projects["Project Tag"]==i]["Project Name*"].values[0]
+                outStr = outStr + '  - name: "' + projFullName + '"\n'
+                outStr = outStr + "    link: /projects/" + i +"/\n"
+
         outStr = outStr + "---\n"
         if(isinstance(row["longBio"], str)):
             outStr = outStr + row["longBio"] 
