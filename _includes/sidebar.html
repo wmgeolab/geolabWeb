@@ -1,6 +1,16 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.otherAuthors %}Coauthors: <p>
+  {% for a in page.otherAuthors %}
+    {% for attribute in a.author %}
+    {% if attribute.authorLink %} <a class="u-url" href="/people/{{ attribute.authorLink }}">{% endif %}
+    {% if attribute.authorName %} {{ attribute.authorName }}</a> {% endif %}
+  
+  {% endfor %}
+  {% endfor %}
+</p>
+  {% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}

@@ -27,6 +27,15 @@ tags: history student-leadership public-summary
 #Let us know.
 author: Joseph McClain
 
+#Name of any other authors.  Only the main author's picture shows up on the article, but this allows for
+#linking on bio pages.  Other Authors do not need to be added into the system, as long as they have student pages.
+#Note that authorLink MUST be before authorName in the below.
+otherAuthors: 
+  - author: 
+    - authorLink: rachelobermanfall2017
+    - authorName: Rachel Oberman
+    
+
 #Don't edit these three
 entryType: news
 layout: singleNews

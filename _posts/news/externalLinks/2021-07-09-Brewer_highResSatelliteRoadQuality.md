@@ -16,8 +16,23 @@ header:
 categories: Security Sustainability
 
 #Tags.  Spaces delimit new tags. To see all current tags, type "/tags/" on the live website URL.
-tags: deep-learning satellite-imagery peer-review
+#Most news articles should be linked to a project via the project tag (though not necessarilly all)
+tags: roadrunner deep-learning satellite-imagery peer-review
 
 #Don't edit:
 entryType: news
+
+#Author of the news article.  Authors must be added into the system, so if this is your first article
+#Let us know.
+author: Ethan Brewer
+
+#Name of any other authors.  Only the main author's picture shows up on the article, but this allows for
+#linking on bio pages.
+otherAuthors: 
+  - author: 
+    - authorName: Olivia Hettinger
+    - authorLink: oliviahettingerfall2019
+  - author:
+    - authorName: Ethan Brewer
+    - authorLink: ethanethan
 ---

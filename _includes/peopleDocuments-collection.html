@@ -1,14 +1,6 @@
 {% assign entries = site[include.collection] | where: "entryType", include.tagFilter %}
 
-{% if include.sort_by %}
-  {% assign entries = entries | sort: type %}
-{% endif %}
-
-
-
-{% if include.sort_order == 'reverse' %}
-  {% assign entries = entries | reverse %}
-{% endif %}
+{% assign entries = entries | sort: 'webOrder' %}
 
 {% assign curType=post.type %}
 
