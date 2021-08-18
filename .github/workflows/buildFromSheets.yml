@@ -5,12 +5,12 @@ name: buildSite
 jobs:
   buildgeoLabWebsite:
     runs-on: ubuntu-latest
-steps:
-    - name: Clone Repo
-      id: buildCheck
-      run: |
-           git clone https://github.com/wmgeolab/geolabWeb
-           pwd
-           ls
+    steps:
+      - name: Clone Repo
+        id: buildCheck
+        run: |
+             git clone https://github.com/wmgeolab/geolabWeb
+             pwd
+             ls
        
       
