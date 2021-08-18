@@ -15,6 +15,7 @@ jobs:
       - name: Build Files
         id: buildFiles
         run: |
+              pip install pandas
               python /home/runner/work/geolabWeb/geolabWeb/geolabWeb/assets/python/generateProjectsPeople.py
               ls
               ls geolabWeb
