@@ -37,9 +37,9 @@ for _, row in projects.iterrows():
         fundStr = "funders: "
         for i in funders:
             fundURL = linkData[linkData["Funders"]==i]["Funder Links"].values[0]
-            fundSrt = fundStr + "<a href='" + fundURL + "'>" + i + "</a>" + "<br />"
+            fundStr = fundStr + "<a href='" + fundURL + "'>" + i + "</a>" + "<br />"
         
-        outStr = outStr + fundSrt + '\n'
+        outStr = outStr + fundStr + '\n'
 
     #header:
     if(isinstance(row["Image (350 x 250)*"] , str)):
@@ -64,8 +64,10 @@ for _, row in projects.iterrows():
     text = text + "<b>People:</b><br />"
     for people_, peopleRow in people.iterrows():
         if(isinstance(peopleRow["Projects"], str)):
-            if(peopleRow["Projects"] in row["Project Tag"]):
-                text = text + "<a href='/people/" + peopleRow["permalink"] + "'>" + peopleRow["Name"] + "</a><br />"
+            allProjects = peopleRow["Projects"].split(',')
+            for b in allProjects:
+                if(b in row["Project Tag"]):
+                    text = text + "<a href='/people/" + peopleRow["permalink"] + "'>" + peopleRow["Name"] + "</a><br />"
     
     text = text + '"\n---\n'
 
