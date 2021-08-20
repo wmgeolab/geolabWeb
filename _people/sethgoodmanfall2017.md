@@ -1,11 +1,12 @@
 ---
 layout: author
 name: Seth Goodman
-type: Graduate Students
-webOrder: 4.0
-avatar: /assets/images/peopleImages/sethgoodman.png
+type: Former Members
+webOrder: 8.0
+avatar: /assets/images/peopleImages/sethgoodmanfall2017.png
 imageMask: 0
-permalink: /people/sethgoodman
+profTitle: Ph.D. Student
+permalink: /people/sethgoodmanfall2017
 links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'
