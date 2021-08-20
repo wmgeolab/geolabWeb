@@ -15,7 +15,7 @@ layout: default
       {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
       <img src="/geolabWeb/assets/images/randomImages/{{ randomNumber }}.jpg" style="border-radius: 25%;">
       {% endif %}
-      {% if page.title %}<h3>{{ page.title }}</h3>{% endif %}
+      {% if page.profTitle %}<h3>{{ page.profTitle }}</h3>{% endif %}
       {% if page.bio %}{{ page.bio | markdownify }}{% endif %}
       {%- for link in page.links -%}
         <a href="{{ link.url }}"><span style="margin-right:5px;" class="{{ link.icon }}"></span>{{ link.label }}</a>

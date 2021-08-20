@@ -30,7 +30,11 @@
     
 
     <h2 class="archive__item-title no_toc" itemprop="headline">
+      {% if post.imageMask==1 %}
         <center><a href="{{ post.url | relative_url }}" rel="permalink">{{ post.name }}</a></center>
+      {% else %}
+        <center><b style="color:#2f7d95;">{{ post.name }}</b></center>
+      {% endif %}
     </h2>
     {% include page__meta.html type=include.type %}
     {% if post.bio %}<center><p class="archive__item-excerpt" itemprop="description">{{ post.bio | markdownify | strip_html | truncate: 160 }}</p></center>{% endif %}

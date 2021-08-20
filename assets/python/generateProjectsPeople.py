@@ -95,7 +95,7 @@ for _, row in people.iterrows():
             outStr = outStr + "avatar: /assets/images/peopleImages/" + row["imagePath"] + "\n"
             outStr = outStr + "imageMask: " + str(row["imageMask"]) + "\n"
         if(isinstance(row["Title"], str)):
-            outStr = outStr + "title: " + row["Title"] + "\n"
+            outStr = outStr + "profTitle: " + row["Title"] + "\n"
         outStr = outStr + "permalink: /people/" + row["permalink"] + "\n"
         outStr = outStr + "links:\n"
         if(isinstance(row["email"], str)):
