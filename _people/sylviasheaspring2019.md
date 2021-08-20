@@ -2,7 +2,7 @@
 layout: author
 name: Sylvia Shea
 type: Former Members
-webOrder: 7.0
+webOrder: 8.0
 avatar: /assets/images/peopleImages/sylviasheaspring2019.png
 imageMask: 0
 permalink: /people/sylviasheaspring2019

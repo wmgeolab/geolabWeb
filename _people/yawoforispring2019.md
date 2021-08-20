@@ -2,7 +2,7 @@
 layout: author
 name: Yaw Ofori-Addae
 type: Former Members
-webOrder: 7.0
+webOrder: 8.0
 avatar: /assets/images/peopleImages/yawoforispring2019.png
 imageMask: 0
 permalink: /people/yawoforispring2019

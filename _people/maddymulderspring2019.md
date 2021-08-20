@@ -2,7 +2,7 @@
 layout: author
 name: Maddy Mulder
 type: Former Members
-webOrder: 7.0
+webOrder: 8.0
 avatar: /assets/images/peopleImages/maddymulderspring2019.png
 imageMask: 0
 permalink: /people/maddymulderspring2019

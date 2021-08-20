@@ -2,7 +2,7 @@
 layout: author
 name: Naomi Levin
 type: Undergraduate Students
-webOrder: 4.0
+webOrder: 5.0
 avatar: /assets/images/peopleImages/naomilevinspring2020.png
 imageMask: 0
 permalink: /people/naomilevinspring2020

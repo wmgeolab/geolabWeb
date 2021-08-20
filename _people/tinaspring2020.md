@@ -2,7 +2,7 @@
 layout: author
 name: Tina (Jiaying) Chen 
 type: Undergraduate Students
-webOrder: 4.0
+webOrder: 5.0
 avatar: /assets/images/peopleImages/tinaspring2020.png
 imageMask: 0
 permalink: /people/tinaspring2020

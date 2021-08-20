@@ -2,7 +2,7 @@
 layout: author
 name: Cole Spiller
 type: Undergraduate Students
-webOrder: 4.0
+webOrder: 5.0
 avatar: /assets/images/peopleImages/colespillerspring2020.png
 imageMask: 0
 permalink: /people/colespillerspring2020

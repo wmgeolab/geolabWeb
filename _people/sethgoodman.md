@@ -2,7 +2,7 @@
 layout: author
 name: Seth Goodman
 type: Graduate Students
-webOrder: 3.0
+webOrder: 4.0
 avatar: /assets/images/peopleImages/sethgoodman.png
 imageMask: 0
 permalink: /people/sethgoodman

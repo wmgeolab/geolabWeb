@@ -2,7 +2,7 @@
 layout: author
 name: Audrey Way
 type: Former Members
-webOrder: 7.0
+webOrder: 8.0
 avatar: /assets/images/peopleImages/audreywayfall2018.png
 imageMask: 0
 permalink: /people/audreywayfall2018

@@ -2,7 +2,7 @@
 layout: author
 name: Lara Maluf-Mas
 type: Former Members
-webOrder: 7.0
+webOrder: 8.0
 avatar: /assets/images/peopleImages/laramalufspring2019.png
 imageMask: 0
 permalink: /people/laramalufspring2019

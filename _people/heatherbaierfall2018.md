@@ -2,7 +2,7 @@
 layout: author
 name: Heather Baier
 type: Staff
-webOrder: 7.0
+webOrder: 3.0
 avatar: /assets/images/peopleImages/heatherbaierfall2018.png
 imageMask: 0
 permalink: /people/heatherbaierfall2018

@@ -2,7 +2,7 @@
 layout: author
 name: John Napoli
 type: Former Members
-webOrder: 7.0
+webOrder: 8.0
 avatar: /assets/images/peopleImages/johnnapolifall2018.png
 imageMask: 0
 permalink: /people/johnnapolifall2018

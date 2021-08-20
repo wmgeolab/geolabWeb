@@ -6,7 +6,7 @@ type: Faculty
 webOrder: 1.0
 avatar: /assets/images/peopleImages/danrunfolafall2017.png
 imageMask: 1
-title: Assistant Professor
+profTitle: Assistant Professor
 permalink: /people/danrunfolafall2017
 links:
   - label: 'Email'

@@ -2,7 +2,7 @@
 layout: author
 name: Laura Opsahl-Ong
 type: Former Members
-webOrder: 7.0
+webOrder: 8.0
 avatar: /assets/images/peopleImages/lauraopsahlspring2019.png
 imageMask: 0
 permalink: /people/lauraopsahlspring2019

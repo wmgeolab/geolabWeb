@@ -2,7 +2,7 @@
 layout: author
 name: Elias Wolman
 type: Undergraduate Students
-webOrder: 4.0
+webOrder: 5.0
 avatar: /assets/images/peopleImages/eliaswolmanspring2020.png
 imageMask: 0
 permalink: /people/eliaswolmanspring2020

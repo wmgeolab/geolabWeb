@@ -2,7 +2,7 @@
 layout: author
 name: Kate Munkacsy
 type: Former Members
-webOrder: 7.0
+webOrder: 8.0
 avatar: /assets/images/peopleImages/katemunkacsyspring2019.png
 imageMask: 0
 permalink: /people/katemunkacsyspring2019
