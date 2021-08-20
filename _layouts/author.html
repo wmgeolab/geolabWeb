@@ -6,8 +6,14 @@ layout: default
   <div class="sidebar sticky">
 
 
-      {% if page.avatar %}
-        <img src="{{ page.avatar | relative_url }}" style="border-radius: 50%;">
+      {% if page.imageMask==1 %}
+        <img src="{{ page.avatar | relative_url }}" style="border-radius: 25%;">
+      {% else %}
+      {% assign min = 1 %}
+      {% assign max = 30 %}
+      {% assign diff = max | minus: min %}
+      {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+      <img src="/geolabWeb/assets/images/randomImages/{{ randomNumber }}.jpg" style="border-radius: 25%;">
       {% endif %}
       {% if page.title %}<h3>{{ page.title }}</h3>{% endif %}
       {% if page.bio %}{{ page.bio | markdownify }}{% endif %}

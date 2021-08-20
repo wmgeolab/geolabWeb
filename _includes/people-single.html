@@ -14,11 +14,21 @@
 
 <div class="{{ include.type | default: 'grid' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    {% if post.avatar %}
+    {% if post.imageMask==1 %}
       <div class="u-photo">
-        <center><img src="{{ post.avatar | relative_url }}" alt="{{ post.name }}" itemprop="image" class="u-photo" style="border-radius: 50%;"></center>
+        <center><img src="{{ post.avatar | relative_url }}" alt="{{ post.name }}" itemprop="image" class="u-photo" style="max-height:150px; border-radius: 25%;object-fit:cover;"></center>
       </div>
+    {% else %}
+    {% assign min = 1 %}
+    {% assign max = 30 %}
+    {% assign diff = max | minus: min %}
+    {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+    <div class="u-photo">
+      <center><img src="/geolabWeb/assets/images/randomImages/{{ randomNumber }}.jpg" alt="{{ post.name }}" itemprop="image" class="u-photo" style="border-radius: 25%;object-fit:cover;"></center>
+    </div>
     {% endif %}
+    
+
     <h2 class="archive__item-title no_toc" itemprop="headline">
         <center><a href="{{ post.url | relative_url }}" rel="permalink">{{ post.name }}</a></center>
     </h2>
