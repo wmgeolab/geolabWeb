@@ -4,6 +4,7 @@ name: Karim Bahgat
 type: Graduate Students
 webOrder: 3.0
 avatar: /assets/images/peopleImages/karimbahgat.png
+imageMask: 0
 permalink: /people/karimbahgat
 links:
   - label: 'Website'

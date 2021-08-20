@@ -5,6 +5,7 @@ bio: Assitant Professor at William & Mary in Applied Science and Data Science. P
 type: Faculty
 webOrder: 1.0
 avatar: /assets/images/peopleImages/danrunfolafall2017.png
+imageMask: 1
 title: Assistant Professor
 permalink: /people/danrunfolafall2017
 links:
@@ -16,7 +17,7 @@ links:
     url: 'https://www.twitter.com/@geogdan'
   - label: 'Website'
     icon: 'fas fa-fw fa-link'
-    url: https://www.danrunfola.com
+    url: http://www.danrunfola.com
 projects:
   - name: "geoFellows"
     link: /projects/geofellows/

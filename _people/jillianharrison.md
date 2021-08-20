@@ -4,6 +4,7 @@ name: Jillian Harrison
 type: Internships
 webOrder: 5.0
 avatar: /assets/images/peopleImages/jillianharrison.png
+imageMask: 0
 permalink: /people/jillianharrison
 links:
 ---

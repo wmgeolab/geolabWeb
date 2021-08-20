@@ -4,6 +4,7 @@ name: Peter Kemper
 type: Faculty
 webOrder: 1.0
 avatar: /assets/images/peopleImages/peterkemperfall2017.png
+imageMask: 0
 permalink: /people/peterkemperfall2017
 links:
   - label: 'Website'

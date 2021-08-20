@@ -5,6 +5,7 @@ bio: Directs the Research Computing infrastructure at William & Mary.
 type: Other Contributors
 webOrder: 6.0
 avatar: /assets/images/peopleImages/ericwalter.png
+imageMask: 1
 title: Executive Director, Research Computing
 permalink: /people/ericwalter
 links:

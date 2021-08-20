@@ -5,6 +5,7 @@ bio: Olivia is the director of the William & Mary geoLab.
 type: Team Leads
 webOrder: 2.0
 avatar: /assets/images/peopleImages/oliviahettingerfall2019.png
+imageMask: 1
 title: Undergraduate Director
 permalink: /people/oliviahettingerfall2019
 links:

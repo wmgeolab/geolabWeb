@@ -5,6 +5,7 @@ bio: Ph.D. Student in the W&M geoLab
 type: Graduate Students
 webOrder: 3.0
 avatar: /assets/images/peopleImages/ethanbrewerspring2020.png
+imageMask: 1
 title: Ph.D. Student
 permalink: /people/ethanbrewerspring2020
 links:
