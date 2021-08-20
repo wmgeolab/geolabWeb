@@ -1,0 +1,30 @@
+{% assign entries = site[include.collection] | where: "entryType", include.tagFilter %}
+
+{% assign entries = entries | sort: "artType" %}
+
+{% assign curType=post.artType %}
+
+
+
+
+{%- for post in entries -%}
+  {%- unless post.hidden -%}
+    {%- if post.artType != curType -%}
+    {%- assign curType=post.artType -%}
+    </div>
+    <div class="entries-grid" style="width:100%;">
+      {% if post.artType == "journal" %}
+      <h2 class="grid__item">Peer Reviewed Articles</h2>
+      {% endif %}
+      {% if post.artType == "news" %}
+      <h2 class="grid__item">News Articles</h2>
+      {% endif %}
+      {% if post.artType == "report" %}
+      <h2 class="grid__item">Public Briefs & Reports</h2>
+      {% endif %}
+      
+    {%- endif -%}
+    {% include news-archive-single.html %}
+  {%- endunless -%}
+{%- endfor -%}
+</div>

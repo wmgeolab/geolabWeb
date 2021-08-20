@@ -36,6 +36,9 @@ otherAuthors:
     - authorName: Rachel Oberman
     
 
+#Type of Article (news, journal, or report)
+artType: news
+
 #Don't edit these three
 entryType: news
 layout: singleNews
