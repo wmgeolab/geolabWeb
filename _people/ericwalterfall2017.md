@@ -3,10 +3,10 @@ layout: author
 name: Eric Walter
 bio: Directs the Research Computing infrastructure at William & Mary.
 type: Other Contributors
-webOrder: 6.0
+webOrder: 7.0
 avatar: /assets/images/peopleImages/ericwalterfall2017.png
 imageMask: 1
-title: Executive Director, Research Computing
+profTitle: Executive Director, Research Computing
 permalink: /people/ericwalterfall2017
 links:
   - label: 'Email'

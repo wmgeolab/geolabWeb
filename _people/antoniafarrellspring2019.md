@@ -2,7 +2,7 @@
 layout: author
 name: Antonia Farrell
 type: Former Members
-webOrder: 7.0
+webOrder: 8.0
 avatar: /assets/images/peopleImages/antoniafarrellspring2019.png
 imageMask: 0
 permalink: /people/antoniafarrellspring2019

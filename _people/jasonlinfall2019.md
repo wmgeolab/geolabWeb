@@ -2,10 +2,10 @@
 layout: author
 name: Jason Lin
 type: Undergraduate Students
-webOrder: 4.0
+webOrder: 5.0
 avatar: /assets/images/peopleImages/jasonlinfall2019.png
-imageMask: 1
-title: geoDev Team Lead
+imageMask: 0
+profTitle: geoDev Team Lead
 permalink: /people/jasonlinfall2019
 links:
   - label: 'Email'

@@ -2,7 +2,7 @@
 layout: author
 name: Eric Nubbe 
 type: Undergraduate Students
-webOrder: 4.0
+webOrder: 5.0
 avatar: /assets/images/peopleImages/ericnubbefall2019.png
 imageMask: 0
 permalink: /people/ericnubbefall2019

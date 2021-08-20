@@ -2,7 +2,7 @@
 layout: author
 name: Lindsey Rogers
 type: Undergraduate Students
-webOrder: 4.0
+webOrder: 5.0
 avatar: /assets/images/peopleImages/lindseyrogersfall2020.png
 imageMask: 0
 permalink: /people/lindseyrogersfall2020

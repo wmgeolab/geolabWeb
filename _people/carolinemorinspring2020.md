@@ -2,7 +2,7 @@
 layout: author
 name: Caroline Morin
 type: Undergraduate Students
-webOrder: 4.0
+webOrder: 5.0
 avatar: /assets/images/peopleImages/carolinemorinspring2020.png
 imageMask: 0
 permalink: /people/carolinemorinspring2020

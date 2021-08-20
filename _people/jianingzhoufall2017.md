@@ -2,7 +2,7 @@
 layout: author
 name: Jianing Zhou
 type: Former Members
-webOrder: 7.0
+webOrder: 8.0
 avatar: /assets/images/peopleImages/jianingzhoufall2017.png
 imageMask: 0
 permalink: /people/jianingzhoufall2017

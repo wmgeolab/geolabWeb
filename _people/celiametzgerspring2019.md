@@ -2,7 +2,7 @@
 layout: author
 name: Celia Metzger
 type: Former Members
-webOrder: 7.0
+webOrder: 8.0
 avatar: /assets/images/peopleImages/celiametzgerspring2019.png
 imageMask: 0
 permalink: /people/celiametzgerspring2019

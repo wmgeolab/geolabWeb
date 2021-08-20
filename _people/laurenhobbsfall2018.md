@@ -2,7 +2,7 @@
 layout: author
 name: Lauren Hobbs
 type: Former Members
-webOrder: 7.0
+webOrder: 8.0
 avatar: /assets/images/peopleImages/laurenhobbsfall2018.png
 imageMask: 0
 permalink: /people/laurenhobbsfall2018

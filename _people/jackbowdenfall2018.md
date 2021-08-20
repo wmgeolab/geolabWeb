@@ -2,7 +2,7 @@
 layout: author
 name: Jack Bowden
 type: Undergraduate Students
-webOrder: 4.0
+webOrder: 5.0
 avatar: /assets/images/peopleImages/jackbowdenfall2018.png
 imageMask: 0
 permalink: /people/jackbowdenfall2018

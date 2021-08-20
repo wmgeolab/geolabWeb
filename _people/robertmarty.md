@@ -2,7 +2,7 @@
 layout: author
 name: Robert Marty
 type: Graduate Students
-webOrder: 3.0
+webOrder: 4.0
 avatar: /assets/images/peopleImages/robertmarty.png
 imageMask: 0
 permalink: /people/robertmarty

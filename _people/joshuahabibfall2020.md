@@ -2,7 +2,7 @@
 layout: author
 name: Joshua Habib
 type: Undergraduate Students
-webOrder: 4.0
+webOrder: 5.0
 avatar: /assets/images/peopleImages/joshuahabibfall2020.png
 imageMask: 0
 permalink: /people/joshuahabibfall2020

@@ -3,10 +3,10 @@ layout: author
 name: Joseph McClain
 bio: Serves as lead on research-related stories at William & Mary, especially those involving the natural sciences.
 type: Other Contributors
-webOrder: 6.0
+webOrder: 7.0
 avatar: /assets/images/peopleImages/josephmcclain.png
 imageMask: 1
-title: Director of Research Communications
+profTitle: Director of Research Communications
 permalink: /people/josephmcclain
 links:
   - label: 'Email'
