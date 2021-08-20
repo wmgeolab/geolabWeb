@@ -11,7 +11,16 @@
 {% endif %}
 
 
-
+{% if post.type contains "Former Members" %}
+<h2 class="grid__item">
+  {% if post.imageMask==1 %}
+    <center><a href="{{ post.url | relative_url }}" rel="permalink">{{ post.name }}</a></center>
+  {% else %}
+    <center><b style="color:#2f7d95;">{{ post.name }}</b></center>
+  {% endif %}
+  {% if post.bio %}<center><p class="archive__item-excerpt" itemprop="description">{{ post.bio | markdownify | strip_html | truncate: 160 }}</p></center>{% endif %}
+</h2>
+{% else  %}
 <div class="{{ include.type | default: 'grid' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if post.imageMask==1 %}
@@ -40,3 +49,4 @@
     {% if post.bio %}<center><p class="archive__item-excerpt" itemprop="description">{{ post.bio | markdownify | strip_html | truncate: 160 }}</p></center>{% endif %}
   </article>
 </div>
+{% endif %}
