@@ -93,6 +93,7 @@ for _, row in people.iterrows():
         outStr = outStr + "webOrder: " + str(row["WebOrder"]) + "\n"
         if(isinstance(row["imagePath"], str)):
             outStr = outStr + "avatar: /assets/images/peopleImages/" + row["imagePath"] + "\n"
+            outStr = outStr + "imageMask: " + str(row["imageMask"]) + "\n"
         if(isinstance(row["Title"], str)):
             outStr = outStr + "title: " + row["Title"] + "\n"
         outStr = outStr + "permalink: /people/" + row["permalink"] + "\n"
