@@ -1,7 +1,7 @@
 ---
 layout: author
 name: Olivia Hettinger
-bio: Olivia is the director of the William & Mary geoLab.
+bio: Olivia is the current director of the William & Mary geoLab.
 type: Team Leads
 webOrder: 2.0
 avatar: /assets/images/peopleImages/oliviahettingerfall2019.png
