@@ -1,8 +1,8 @@
 ---
 layout: author
 name: James Turner
-type: Undergraduate Students
-webOrder: 5.0
+type: Former Members
+webOrder: 8.0
 avatar: /assets/images/peopleImages/jamesturnerfall2020.png
 imageMask: 0
 permalink: /people/jamesturnerfall2020

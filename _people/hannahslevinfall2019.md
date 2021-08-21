@@ -1,8 +1,8 @@
 ---
 layout: author
 name: Hannah Slevin
-type: Undergraduate Students
-webOrder: 5.0
+type: Former Members
+webOrder: 8.0
 avatar: /assets/images/peopleImages/hannahslevinfall2019.png
 imageMask: 0
 permalink: /people/hannahslevinfall2019

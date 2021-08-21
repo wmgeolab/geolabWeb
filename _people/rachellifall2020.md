@@ -1,8 +1,8 @@
 ---
 layout: author
 name: Rachel Li
-type: Undergraduate Students
-webOrder: 5.0
+type: Former Members
+webOrder: 8.0
 avatar: /assets/images/peopleImages/rachellifall2020.png
 imageMask: 0
 permalink: /people/rachellifall2020

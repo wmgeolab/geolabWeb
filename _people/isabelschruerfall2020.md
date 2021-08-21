@@ -1,8 +1,8 @@
 ---
 layout: author
 name: Isabel Schruer
-type: Undergraduate Students
-webOrder: 5.0
+type: Former Members
+webOrder: 8.0
 avatar: /assets/images/peopleImages/isabelschruerfall2020.png
 imageMask: 0
 permalink: /people/isabelschruerfall2020
