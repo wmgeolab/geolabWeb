@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Laura Kirk
+bio: geoData
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/laurakirkspring2020.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/laurakirkspring2020
 links:
   - label: 'Email'

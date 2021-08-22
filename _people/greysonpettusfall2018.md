@@ -4,7 +4,7 @@ name: Greyson Pettus
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/greysonpettusfall2018.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/greysonpettusfall2018
 links:
   - label: 'Email'

@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Monica Alicea
+bio: geoParsing
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/monicaaliceafall2019.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/monicaaliceafall2019
 links:
   - label: 'Email'

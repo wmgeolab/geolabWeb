@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Heather Baier
+bio: Staff Researcher
 type: Staff
 webOrder: 3.0
 avatar: /assets/images/peopleImages/heatherbaierfall2018.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/heatherbaierfall2018
 links:
   - label: 'Email'

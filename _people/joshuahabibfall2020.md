@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Joshua Habib
+bio: geoBoundaries
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/joshuahabibfall2020.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/joshuahabibfall2020
 links:
   - label: 'Email'

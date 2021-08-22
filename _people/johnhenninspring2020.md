@@ -1,10 +1,11 @@
 ---
 layout: author
 name: John Hennin
+bio: geoData
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/johnhenninspring2020.png
-imageMask: 1
+imageMask: 1.0
 profTitle: geoData Research Assistant
 permalink: /people/johnhenninspring2020
 links:

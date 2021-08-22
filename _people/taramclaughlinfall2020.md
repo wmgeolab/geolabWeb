@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Tara McLaughlin 
+bio: geoBoundaries
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/taramclaughlinfall2020.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/taramclaughlinfall2020
 links:
   - label: 'Email'

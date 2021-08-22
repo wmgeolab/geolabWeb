@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Hadley Day
+bio: geoBoundaries
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/hadleydayspring2020.png
-imageMask: 1
+imageMask: 1.0
 profTitle: CIESIN Project Lead
 permalink: /people/hadleydayspring2020
 links:

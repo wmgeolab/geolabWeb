@@ -4,7 +4,7 @@ name: Graham Melville
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/grahammelvillefall2018.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/grahammelvillefall2018
 links:
   - label: 'Email'

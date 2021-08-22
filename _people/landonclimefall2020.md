@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Landon Clime
+bio: geoParsing
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/landonclimefall2020.png
-imageMask: 1
+imageMask: 1.0
 profTitle: SCOPE Project Lead
 permalink: /people/landonclimefall2020
 links:

@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Nolan Ma
+bio: geoDev
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/nolanmaspring2019.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/nolanmaspring2019
 links:
   - label: 'Email'

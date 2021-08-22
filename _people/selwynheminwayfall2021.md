@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Selwyn Heminway
+bio: geoBoundaries
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/selwynheminwayfall2021.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/selwynheminwayfall2021
 links:
   - label: 'Email'

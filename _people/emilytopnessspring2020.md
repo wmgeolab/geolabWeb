@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Emily Topness
+bio: geoBoundaries
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/emilytopnessspring2020.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/emilytopnessspring2020
 links:
   - label: 'Email'

@@ -4,7 +4,7 @@ name: Nicolas LaGamma
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/nicolaslagammafall2018.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/nicolaslagammafall2018
 links:
   - label: 'Email'

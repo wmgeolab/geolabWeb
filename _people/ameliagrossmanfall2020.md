@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Amelia Grossman
+bio: geoParsing
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/ameliagrossmanfall2020.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/ameliagrossmanfall2020
 links:
   - label: 'Email'

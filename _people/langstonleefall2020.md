@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Langston Lee
+bio: geoDev
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/langstonleefall2020.png
-imageMask: 1
+imageMask: 1.0
 profTitle: geoDev Research Assistant
 permalink: /people/langstonleefall2020
 links:

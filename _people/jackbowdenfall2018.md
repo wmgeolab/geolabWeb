@@ -4,7 +4,7 @@ name: Jack Bowden
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/jackbowdenfall2018.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/jackbowdenfall2018
 links:
   - label: 'Email'

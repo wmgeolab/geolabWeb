@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Sebastian (Zak) Zeldon
+bio: geoParsing
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/sebastianfall2020.png
-imageMask: 1
+imageMask: 1.0
 profTitle: BRIGHT Research Assistant
 permalink: /people/sebastianfall2020
 links:

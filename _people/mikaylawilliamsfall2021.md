@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Mikayla Williams
+bio: geoBoundaries
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/mikaylawilliamsfall2021.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/mikaylawilliamsfall2021
 links:
   - label: 'Email'

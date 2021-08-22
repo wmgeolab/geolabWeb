@@ -5,7 +5,7 @@ bio: Professor of Computer Science at William & Mary
 type: Faculty
 webOrder: 1.0
 avatar: /assets/images/peopleImages/peterkemperfall2017.png
-imageMask: 1
+imageMask: 1.0
 profTitle: Professor
 permalink: /people/peterkemperfall2017
 links:

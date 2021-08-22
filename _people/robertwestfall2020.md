@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Robert West
+bio: geoDev
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/robertwestfall2020.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/robertwestfall2020
 links:
   - label: 'Email'

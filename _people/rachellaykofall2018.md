@@ -4,7 +4,7 @@ name: Rachel Layko
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/rachellaykofall2018.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/rachellaykofall2018
 links:
   - label: 'Email'

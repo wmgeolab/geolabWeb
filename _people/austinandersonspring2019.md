@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Austin Anderson
+bio: geoBoundaries
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/austinandersonspring2019.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/austinandersonspring2019
 links:
   - label: 'Email'

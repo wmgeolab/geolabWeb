@@ -1,10 +1,12 @@
 ---
 layout: author
 name: Joseph S. Lee
+bio: geoDev
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/josephsspring2021.png
-imageMask: 0
+imageMask: 1.0
+profTitle: geoDev Research Assistant
 permalink: /people/josephsspring2021
 links:
   - label: 'Email'

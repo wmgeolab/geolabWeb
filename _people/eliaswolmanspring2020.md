@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Elias Wolman
+bio: geoData
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/eliaswolmanspring2020.png
-imageMask: 1
+imageMask: 1.0
 profTitle: geoData Research Assistant
 permalink: /people/eliaswolmanspring2020
 links:

@@ -1,10 +1,11 @@
 ---
 layout: author
 name: James Turner
+bio: geoBoundaries
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/jamesturnerfall2020.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/jamesturnerfall2020
 links:
   - label: 'Email'

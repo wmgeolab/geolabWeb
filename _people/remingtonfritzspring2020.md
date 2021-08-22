@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Remington Fritz
+bio: geoParsing
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/remingtonfritzspring2020.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/remingtonfritzspring2020
 links:
   - label: 'Email'

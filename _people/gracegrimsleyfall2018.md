@@ -4,7 +4,7 @@ name: Grace Grimsley
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/gracegrimsleyfall2018.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/gracegrimsleyfall2018
 links:
   - label: 'Email'

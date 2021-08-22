@@ -4,7 +4,7 @@ name: Zhonghui Miranda Lv
 type: Graduate Students
 webOrder: 4.0
 avatar: /assets/images/peopleImages/zhonghuimirandalvfall2019.png
-imageMask: 0
+imageMask: 0.0
 profTitle: Ph.D. Student
 permalink: /people/zhonghuimirandalvfall2019
 links:

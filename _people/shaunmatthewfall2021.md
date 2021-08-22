@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Shaun Matthew
+bio: geoBoundaries
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/shaunmatthewfall2021.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/shaunmatthewfall2021
 links:
   - label: 'Email'

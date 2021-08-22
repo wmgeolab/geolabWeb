@@ -1,10 +1,12 @@
 ---
 layout: author
 name: Elizabeth Dawes
+bio: Journalist
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/elizabethdawesfall2020.png
-imageMask: 0
+imageMask: 1.0
+profTitle: Journalist
 permalink: /people/elizabethdawesfall2020
 links:
   - label: 'Email'

@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Sylvia Shea
+bio: geoBoundaries
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/sylviasheaspring2019.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/sylviasheaspring2019
 links:
   - label: 'Email'

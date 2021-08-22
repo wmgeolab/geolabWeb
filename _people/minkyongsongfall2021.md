@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Minkyong Song
+bio: geoDev
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/minkyongsongfall2021.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/minkyongsongfall2021
 links:
   - label: 'Email'

@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Charles Pritz
+bio: geoParsing
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/charlespritzfall2021.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/charlespritzfall2021
 links:
   - label: 'Email'

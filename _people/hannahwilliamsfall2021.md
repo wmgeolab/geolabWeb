@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Hannah Williams
+bio: geoBoundaries
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/hannahwilliamsfall2021.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/hannahwilliamsfall2021
 links:
   - label: 'Email'

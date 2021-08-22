@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Russell (Russ) Biddle
+bio: geoBoundaries
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/russellspring2021.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/russellspring2021
 links:
   - label: 'Email'

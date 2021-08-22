@@ -4,7 +4,7 @@ name: Jianing Zhou
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/jianingzhoufall2017.png
-imageMask: 0
+imageMask: 0.0
 profTitle: Ph.D. Student
 permalink: /people/jianingzhoufall2017
 links:

@@ -4,7 +4,7 @@ name: Joshua Panganiban
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/joshuapanganibanfall2018.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/joshuapanganibanfall2018
 links:
   - label: 'Email'

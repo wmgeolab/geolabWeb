@@ -1,11 +1,11 @@
 ---
 layout: author
 name: Jason Lin
-bio: test
+bio: geoDev
 type: Team Leads
 webOrder: 2.0
 avatar: /assets/images/peopleImages/jasonlinfall2019.png
-imageMask: 1
+imageMask: 1.0
 profTitle: geoDev Team Lead
 permalink: /people/jasonlinfall2019
 links:

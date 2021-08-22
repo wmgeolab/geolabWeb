@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Isabella DiFulvio
+bio: geoDev
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/isabelladifulviofall2021.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/isabelladifulviofall2021
 links:
   - label: 'Email'
