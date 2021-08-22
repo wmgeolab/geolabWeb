@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Sean Muphy
-type: Undergraduate Students
-webOrder: 5.0
+type: Team Leads
+webOrder: 2.0
 avatar: /assets/images/peopleImages/seanmuphyspring2020.png
-imageMask: 0
+imageMask: 1
+profTitle: geoBoundaries Team Lead
 permalink: /people/seanmuphyspring2020
 links:
   - label: 'Email'

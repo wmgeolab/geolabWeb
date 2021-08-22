@@ -4,7 +4,7 @@ name: Matthew Crittenden
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/matthewcrittendenfall2018.png
-imageMask: 0
+imageMask: 1
 profTitle: geoParsing Team Lead
 permalink: /people/matthewcrittendenfall2018
 links:

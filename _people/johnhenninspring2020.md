@@ -4,7 +4,8 @@ name: John Hennin
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/johnhenninspring2020.png
-imageMask: 0
+imageMask: 1
+profTitle: geoData Research Assistant
 permalink: /people/johnhenninspring2020
 links:
   - label: 'Email'

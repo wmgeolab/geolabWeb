@@ -4,7 +4,8 @@ name: Landon Clime
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/landonclimefall2020.png
-imageMask: 0
+imageMask: 1
+profTitle: SCOPE Project Lead
 permalink: /people/landonclimefall2020
 links:
   - label: 'Email'

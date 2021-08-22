@@ -4,7 +4,8 @@ name: Dominic Fornatora
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/dominicfornatoraspring2020.png
-imageMask: 0
+imageMask: 1
+profTitle: geoBoundaries Research Assistant
 permalink: /people/dominicfornatoraspring2020
 links:
   - label: 'Email'

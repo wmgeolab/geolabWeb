@@ -4,7 +4,8 @@ name: Michael Roth
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/michaelrothfall2020.png
-imageMask: 0
+imageMask: 1
+profTitle: geoBoundaries Research Assistant
 permalink: /people/michaelrothfall2020
 links:
   - label: 'Email'

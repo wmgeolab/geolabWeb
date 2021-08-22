@@ -2,8 +2,8 @@
 layout: author
 name: Jason Lin
 bio: test
-type: Undergraduate Students
-webOrder: 5.0
+type: Team Leads
+webOrder: 2.0
 avatar: /assets/images/peopleImages/jasonlinfall2019.png
 imageMask: 1
 profTitle: geoDev Team Lead

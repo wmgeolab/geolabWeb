@@ -4,7 +4,8 @@ name: Tina (Jiaying) Chen
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/tinaspring2020.png
-imageMask: 0
+imageMask: 1
+profTitle: geoDev Research Assistant
 permalink: /people/tinaspring2020
 links:
   - label: 'Email'

@@ -4,7 +4,8 @@ name: Fatima Pate
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/fatimapatefall2020.png
-imageMask: 0
+imageMask: 1
+profTitle: geoData Research Assistant
 permalink: /people/fatimapatefall2020
 links:
   - label: 'Email'

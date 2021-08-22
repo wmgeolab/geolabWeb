@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Caroline Morin
-type: Undergraduate Students
-webOrder: 5.0
+type: Team Leads
+webOrder: 2.0
 avatar: /assets/images/peopleImages/carolinemorinspring2020.png
-imageMask: 0
+imageMask: 1
+profTitle: geoParsing Team Lead
 permalink: /people/carolinemorinspring2020
 links:
   - label: 'Email'

@@ -4,7 +4,8 @@ name: Naomi Levin
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/naomilevinspring2020.png
-imageMask: 0
+imageMask: 1
+profTitle: geoData Research Assistant
 permalink: /people/naomilevinspring2020
 links:
   - label: 'Email'

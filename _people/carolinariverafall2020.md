@@ -4,7 +4,8 @@ name: Carolina Rivera
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/carolinariverafall2020.png
-imageMask: 0
+imageMask: 1
+profTitle: geoBoundaries Research Assistant
 permalink: /people/carolinariverafall2020
 links:
   - label: 'Email'
