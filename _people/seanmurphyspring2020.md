@@ -1,12 +1,12 @@
 ---
 layout: author
-name: Sean Muphy
+name: Sean Murphy
 type: Team Leads
 webOrder: 2.0
-avatar: /assets/images/peopleImages/seanmuphyspring2020.png
+avatar: /assets/images/peopleImages/seanmurphyspring2020.png
 imageMask: 1
 profTitle: geoBoundaries Team Lead
-permalink: /people/seanmuphyspring2020
+permalink: /people/seanmurphyspring2020
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
