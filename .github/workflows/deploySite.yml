@@ -15,5 +15,6 @@ jobs:
              
     - run: |
            ls -l
+           pwd
            cd geolabWeb
            ls -l
