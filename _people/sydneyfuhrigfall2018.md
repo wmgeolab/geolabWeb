@@ -11,4 +11,7 @@ links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
     url: mailto:slfuhrig@email.wm.edu
+projects:
+  - name: "geoBoundaries"
+    link: /projects/geoboundaries/
 ---

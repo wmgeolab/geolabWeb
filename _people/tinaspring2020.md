@@ -12,4 +12,9 @@ links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
     url: mailto:jchen28@email.wm.edu
+projects:
+  - name: "Climate Intervention Effectiveness Programme (CIEP)"
+    link: /projects/ciep/
+  - name: "Deep Learning for Satellite Imagery (DL4SAT)"
+    link: /projects/dl4sat/
 ---

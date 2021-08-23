@@ -11,4 +11,7 @@ links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'
     url: https://www.wm.edu/as/appliedscience/graduateprogram/our_students/bahgat_k.php
+projects:
+  - name: "geoBoundaries"
+    link: /projects/geoboundaries/
 ---

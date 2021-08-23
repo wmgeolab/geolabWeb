@@ -8,4 +8,7 @@ avatar: /assets/images/peopleImages/molliegaines.png
 imageMask: 0.0
 permalink: /people/molliegaines
 links:
+projects:
+  - name: "Climate Intervention Effectiveness Programme (CIEP)"
+    link: /projects/ciep/
 ---

@@ -11,4 +11,7 @@ links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
     url: mailto:lkopsahlong@email.wm.edu
+projects:
+  - name: "Climate Intervention Effectiveness Programme (CIEP)"
+    link: /projects/ciep/
 ---

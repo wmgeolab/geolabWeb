@@ -11,4 +11,7 @@ links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'
     url: https://www.linkedin.com/in/robert-marty-86442769/
+projects:
+  - name: "geoInt"
+    link: /projects/geoint/
 ---

@@ -16,6 +16,8 @@ links:
     icon: 'fas fa-fw fa-link'
     url: https://www.wm.edu/as/appliedscience/graduateprogram/our_students/brewer_e.php
 projects:
-  - name: "roadRunner: Estimation of Road Quality from Space"
-    link: /projects/roadrunner/
+  - name: "Satellite Data Poisoning Project (SDPP)"
+    link: /projects/sdpp/
+  - name: "Deep Learning for Satellite Imagery (DL4SAT)"
+    link: /projects/dl4sat/
 ---

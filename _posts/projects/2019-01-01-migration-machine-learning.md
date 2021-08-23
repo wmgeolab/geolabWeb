@@ -3,7 +3,7 @@ title: "Migration and Machine Learning (MML) Project"
 funders: <a href='https://www.dhs.gov/'>United States Department of Homeland Security</a><br />
 header:
   teaser: /assets/images/projectImages/mml.png
-categories: Security
+categories: Sustainability, Security
 entryType: project
 layout: singleProjects
 permalink: /projects/migration-machine-learning/
@@ -12,7 +12,7 @@ sidebar:
   - title: "Migration and Machine Learning (MML) Project"
     image: /assets/images/projectImages/mml.png
     image_alt: logo
-    text: "<b>Description</b><br />Exploring the use of machine learning for predicting and understanding human migratory flows.<br /><b>Timeline:</b><br />Fall 2020 to Present<br /><b>People:</b><br /><a href='/people/danrunfolafall2017'>Dan Runfola</a><br /><a href='/people/heatherbaierfall2018'>Heather Baier</a><br />"
+    text: "<b>Description</b><br />Exploring the use of machine learning for predicting and understanding human migratory flows.<br /><b>Timeline:</b><br />Spring 2019 to Present<br /><b>People:</b><br /><a href='/people/danrunfolafall2017'>Dan Runfola</a><br /><a href='/people/lauramillsspring2020'>Laura Mills</a><br /><a href='/people/maevenaughtonfall2020'>Maeve Naughton-Rockwell</a><br /><a href='/people/heatherbaierfall2018'>Heather Baier</a><br /><a href='/people/ethanharrison'>Ethan Harrison</a><br />"
 ---
 **Core Contribution** - Improving our understanding of the highly non-linear impact of climate on human migratory decisions across multiple countries in Latin America.
 **Secondary Contribution** - Advancing our ability to use deep learning models for data-driven social science studies seeking to attribute causality to social drivers.

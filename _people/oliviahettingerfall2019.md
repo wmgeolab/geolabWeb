@@ -15,5 +15,8 @@ links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'
     url: oliviahettinger.com
+projects:
+  - name: "geoFellows"
+    link: /projects/geofellows/
 ---
 This is where Olivia's long biography would go.

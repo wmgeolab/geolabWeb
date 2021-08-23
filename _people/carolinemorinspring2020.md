@@ -1,7 +1,7 @@
 ---
 layout: author
 name: Caroline Morin
-bio: geoParsing
+bio: geoParsing Team Lead
 type: Team Leads
 webOrder: 2.0
 avatar: /assets/images/peopleImages/carolinemorinspring2020.png
@@ -12,4 +12,7 @@ links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
     url: mailto:chmorin@email.wm.edu
+projects:
+  - name: "geoInt"
+    link: /projects/geoint/
 ---

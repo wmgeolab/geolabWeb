@@ -11,4 +11,7 @@ links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
     url: mailto:mrnaughtonrock@email.wm.edu
+projects:
+  - name: "Migration and Machine Learning (MML) Project"
+    link: /projects/migration-machine-learning/
 ---

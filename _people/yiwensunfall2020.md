@@ -11,4 +11,7 @@ links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
     url: mailto:ysun15@email.wm.edu
+projects:
+  - name: "geoInt"
+    link: /projects/geoint/
 ---

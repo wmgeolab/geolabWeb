@@ -12,4 +12,9 @@ links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
     url: mailto:lkmills@email.wm.edu
+projects:
+  - name: "Climate Intervention Effectiveness Programme (CIEP)"
+    link: /projects/ciep/
+  - name: "Migration and Machine Learning (MML) Project"
+    link: /projects/migration-machine-learning/
 ---

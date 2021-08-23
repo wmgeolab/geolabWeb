@@ -13,7 +13,9 @@ links:
     icon: 'fas fa-fw fa-link'
     url: http://www.cs.wm.edu/~kemper/
 projects:
-  - name: "roadRunner: Estimation of Road Quality from Space"
-    link: /projects/roadrunner/
+  - name: "Satellite Data Poisoning Project (SDPP)"
+    link: /projects/sdpp/
+  - name: "Deep Learning for Satellite Imagery (DL4SAT)"
+    link: /projects/dl4sat/
 ---
 Dr. Peter Kemper is a Computer Scientist at William & Mary interested in Modeling, Techniques and Tools for Simulation and Optimization of Discrete Event Systems, Stochastic Models for Performance and Dependability Analysis, Human-Computer Interfaces, Brain-Computer Interfaces, Software Development, and Analysis Techniques for Spatial-Temporal Data.

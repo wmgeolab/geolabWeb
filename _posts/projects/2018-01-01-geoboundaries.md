@@ -1,0 +1,17 @@
+---
+title: "geoBoundaries"
+funders: <a href='https://www.mcgovern.org/'>McGovern Foundation</a><br /><a href='https://hria.org/tmf/jeffress/'>Jeffress Trust Awards Program in Interdisciplinary Research</a><br /><a href='https://www.gatesfoundation.org/'>Bill and Melinda Gates Foundation</a><br />
+header:
+  teaser: /assets/images/projectImages/geoBoundaries.png
+categories: Vibrancy
+entryType: project
+layout: singleProjects
+permalink: /projects/geoboundaries/
+tags: undergraduate-research peer-review public-good
+sidebar:
+  - title: "geoBoundaries"
+    image: /assets/images/projectImages/geoBoundaries.png
+    image_alt: logo
+    text: "<b>Description</b><br />The world's largest open, free and research-ready database of political administrative boundaries.<br /><b>Timeline:</b><br />Fall 2018 to Present<br /><b>People:</b><br /><a href='/people/danrunfolafall2017'>Dan Runfola</a><br /><a href='/people/karimbahgat'>Karim Bahgat</a><br /><a href='/people/sydneyfuhrigfall2018'>Sydney Fuhrig</a><br /><a href='/people/sylviasheaspring2019'>Sylvia Shea</a><br /><a href='/people/austinandersonspring2019'>Austin Anderson</a><br /><a href='/people/andrewpeckfall2019'>Andrew Peck</a><br /><a href='/people/hannahslevinfall2019'>Hannah Slevin</a><br /><a href='/people/maddymulderspring2019'>Maddy Mulder</a><br /><a href='/people/sidoniehornspring2020'>Sidonie Horn</a><br /><a href='/people/seanmurphyspring2020'>Sean Murphy</a><br /><a href='/people/hadleydayspring2020'>Hadley Day</a><br /><a href='/people/lydiatroupspring2020'>Lydia Troup</a><br /><a href='/people/dominicfornatoraspring2020'>Dominic Fornatora</a><br /><a href='/people/nataliespagespring2020'>Natalie Spage</a><br /><a href='/people/emilytopnessspring2020'>Emily Topness</a><br /><a href='/people/michaelrothfall2020'>Michael Roth</a><br /><a href='/people/joshuahabibfall2020'>Joshua Habib</a><br /><a href='/people/dorianmillerfall2020'>Dorian Miller</a><br /><a href='/people/carolinariverafall2020'>Carolina Rivera</a><br /><a href='/people/isabelschruerfall2020'>Isabel Schruer</a><br /><a href='/people/neelsimpsonfall2020'>Neel Simpson</a><br /><a href='/people/lindseyrogersfall2020'>Lindsey Rogers</a><br /><a href='/people/helenabuckmanfall2020'>Helena Buckman</a><br /><a href='/people/samupdikefall2020'>Sam Updike</a><br /><a href='/people/jamesturnerfall2020'>James Turner</a><br /><a href='/people/heatherbaierfall2018'>Heather Baier</a><br /><a href='/people/leighseitz'>Leigh Seitz</a><br /><a href='/people/grahammelvillefall2018'>Graham Melville</a><br /><a href='/people/laurenhobbsfall2018'>Lauren Hobbs</a><br /><a href='/people/joshuapanganibanfall2018'>Joshua Panganiban</a><br /><a href='/people/gracegrimsleyfall2018'>Grace Grimsley</a><br /><a href='/people/rachellaykofall2018'>Rachel Layko</a><br />"
+---
+Produced and maintained by the William & Mary geoLab since 2017, the geoBoundaries Global Database of Political Administrative Boundaries Database is an online, open license resource of boundaries (i.e., state, county) for every country in the world. We currently track approximately one million boundaries across over 200 entities, including all 195 UN member states. All boundaries are available to view or download in common file formats, including shapefiles; the only requirement for use is acknowledgement.

@@ -7,4 +7,7 @@ avatar: /assets/images/peopleImages/leighseitz.png
 imageMask: 0.0
 permalink: /people/leighseitz
 links:
+projects:
+  - name: "geoBoundaries"
+    link: /projects/geoboundaries/
 ---

@@ -12,4 +12,7 @@ links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
     url: mailto:dfornatora@email.wm.edu
+projects:
+  - name: "geoBoundaries"
+    link: /projects/geoboundaries/
 ---
