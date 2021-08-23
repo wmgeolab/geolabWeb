@@ -20,6 +20,7 @@ jobs:
               ls
               ls geolabWeb
               ls geolabWeb/_posts/projects
+              
       - name: Push Updates
         id: pushUpdates
         env:
@@ -35,6 +36,9 @@ jobs:
            git diff-index --quiet HEAD || git commit -m "Automated Build"
            git status
            git push origin main 
-             
-       
+           
+      - uses: actions/checkout@v2
+      - uses: helaili/jekyll-action@v2
+        with:
+          token: ${{ secrets.DRTOKEN }}
       
