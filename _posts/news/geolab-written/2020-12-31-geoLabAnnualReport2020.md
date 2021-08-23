@@ -13,7 +13,7 @@ header:
   teaser: /assets/images/newsImages/geolab2020.png
 
 #Should be one or more of Vibrancy, Sustainability, and Security.
-categories: Vibrancy, Sustainability, Security
+categories: Vibrancy Sustainability Security
 
 #Tags.  Spaces delimit new tags. To see all current tags, type "/tags/" on the live website URL.
 tags: history
