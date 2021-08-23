@@ -33,7 +33,7 @@
     {% assign diff = max | minus: min %}
     {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
     <div class="u-photo">
-      <center><img src="/geolabWeb/assets/images/randomImages/{{ randomNumber }}.jpg" alt="{{ post.name }}" itemprop="image" class="u-photo" style="border-radius: 25%;object-fit:cover;"></center>
+      <center><img src="/assets/images/randomImages/{{ randomNumber }}.jpg" alt="{{ post.name }}" itemprop="image" class="u-photo" style="border-radius: 25%;object-fit:cover;"></center>
     </div>
     {% endif %}
     
