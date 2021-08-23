@@ -17,7 +17,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
         server: ${{ secrets.FTP_PATH }}
-        server-dir: /www/virtualhosts/geolab.wm.edu/public_html/dev
+        server-dir: /www/virtualhosts/geolab.wm.edu/public_html/dev/
         username: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PASSWORD }}
         git-ftp-args: --dry-run
