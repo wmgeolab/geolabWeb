@@ -12,7 +12,7 @@ sidebar:
   - title: "geoFellows"
     image: /assets/images/projectImages/geofellows.png
     image_alt: logo
-    text: "<b>Description</b><br />Promoting diversity in STEM by training the next generation of leaders.<br /><b>Timeline:</b><br />Fall 2017 to Present<br /><b>People:</b><br /><a href='/people/danrunfolafall2017.html'>Dan Runfola</a> | <a href='/people/rachelobermanfall2017.html'>Rachel Oberman</a> | <a href='/people/oliviahettingerfall2019.html'>Olivia Hettinger</a> | "
+    text: "<b>Description</b><br />Promoting diversity in STEM by training the next generation of leaders.<br /><b>Timeline:</b><br />Fall 2017 to Present<br /><b>People:</b><br /><a href='/people/danrunfolafall2017.html'>Dan Runfola</a>, <a href='/people/rachelobermanfall2017.html'>Rachel Oberman</a>, <a href='/people/oliviahettingerfall2019.html'>Olivia Hettinger</a>, "
 ---
 The geoFellows program has three core goals, focused on increasing the diversity of leaders in the computational sciences:
 
