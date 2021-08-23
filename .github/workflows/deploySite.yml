@@ -13,11 +13,7 @@ jobs:
         repository: wmgeolab/geolabWeb
         ref: gh-pages
              
-    - name: FTP-Deploy-Action
-      uses: SamKirkland/FTP-Deploy-Action@3.1.1
-      with:
-        ftp-server: websh.aws.wm.edu
-        server-dir: /www/virtualhosts/geolab.wm.edu/public_html/dev/
-        ftp-username: ${{ secrets.FTP_USER }}
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
-        git-ftp-args: --dry-run --insecure
+    - run: |
+           ls -l
+           cd geolabWeb
+           ls -l
