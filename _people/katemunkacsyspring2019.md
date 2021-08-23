@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Kate Munkacsy
+bio: geoParsing
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/katemunkacsyspring2019.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/katemunkacsyspring2019
 links:
   - label: 'Email'

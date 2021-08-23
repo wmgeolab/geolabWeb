@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Isabel Schruer
-type: Undergraduate Students
-webOrder: 5.0
+bio: geoBoundaries
+type: Former Members
+webOrder: 8.0
 avatar: /assets/images/peopleImages/isabelschruerfall2020.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/isabelschruerfall2020
 links:
   - label: 'Email'

@@ -1,10 +1,12 @@
 ---
 layout: author
 name: Lydia Troup
-type: Undergraduate Students
-webOrder: 5.0
+bio: geoBoundaries Team Lead
+type: Team Leads
+webOrder: 2.0
 avatar: /assets/images/peopleImages/lydiatroupspring2020.png
-imageMask: 0
+imageMask: 1.0
+profTitle: geoBoundaries Team Lead
 permalink: /people/lydiatroupspring2020
 links:
   - label: 'Email'

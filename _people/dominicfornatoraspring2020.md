@@ -1,10 +1,12 @@
 ---
 layout: author
 name: Dominic Fornatora
+bio: geoBoundaries
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/dominicfornatoraspring2020.png
-imageMask: 0
+imageMask: 1.0
+profTitle: geoBoundaries Research Assistant
 permalink: /people/dominicfornatoraspring2020
 links:
   - label: 'Email'

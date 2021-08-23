@@ -5,7 +5,7 @@ bio: Serves as lead on research-related stories at William & Mary, especially th
 type: Other Contributors
 webOrder: 7.0
 avatar: /assets/images/peopleImages/josephmcclainfall2019.png
-imageMask: 1
+imageMask: 1.0
 profTitle: Director of Research Communications
 permalink: /people/josephmcclainfall2019
 links:

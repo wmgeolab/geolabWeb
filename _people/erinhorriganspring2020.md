@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Erin Horrigan
+bio: geoParsing
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/erinhorriganspring2020.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/erinhorriganspring2020
 links:
   - label: 'Email'

@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Laura Mills
-type: Undergraduate Students
-webOrder: 5.0
+bio: geoData Team Lead
+type: Team Leads
+webOrder: 2.0
 avatar: /assets/images/peopleImages/lauramillsspring2020.png
-imageMask: 0
+imageMask: 1.0
 profTitle: geoData Team Lead
 permalink: /people/lauramillsspring2020
 links:

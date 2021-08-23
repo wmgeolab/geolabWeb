@@ -1,10 +1,10 @@
 ---
 layout: author
 name: Rachel Layko
-type: Undergraduate Students
-webOrder: 5.0
+type: Former Members
+webOrder: 8.0
 avatar: /assets/images/peopleImages/rachellaykofall2018.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/rachellaykofall2018
 links:
   - label: 'Email'

@@ -1,10 +1,12 @@
 ---
 layout: author
 name: Asha Silva
+bio: geoParsing
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/ashasilvafall2020.png
-imageMask: 0
+imageMask: 1.0
+profTitle: BRIGHT Research Assistant
 permalink: /people/ashasilvafall2020
 links:
   - label: 'Email'

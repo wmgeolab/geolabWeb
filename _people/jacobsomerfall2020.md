@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Jacob Somer
+bio: geoDev
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/jacobsomerfall2020.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/jacobsomerfall2020
 links:
   - label: 'Email'

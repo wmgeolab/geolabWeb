@@ -1,10 +1,11 @@
 ---
 layout: author
 name: Yiwen Sun(Wendy)
+bio: geoParsing
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/yiwensunfall2020.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/yiwensunfall2020
 links:
   - label: 'Email'

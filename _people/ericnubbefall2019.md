@@ -1,10 +1,10 @@
 ---
 layout: author
 name: Eric Nubbe 
-type: Undergraduate Students
-webOrder: 5.0
+type: Former Members
+webOrder: 8.0
 avatar: /assets/images/peopleImages/ericnubbefall2019.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/ericnubbefall2019
 links:
   - label: 'Email'

@@ -4,7 +4,7 @@ name: Lauren Hobbs
 type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/laurenhobbsfall2018.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/laurenhobbsfall2018
 links:
   - label: 'Email'

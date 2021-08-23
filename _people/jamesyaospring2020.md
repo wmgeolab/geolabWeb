@@ -1,10 +1,11 @@
 ---
 layout: author
 name: James Yao
-type: Undergraduate Students
-webOrder: 5.0
+bio: geoDev
+type: Former Members
+webOrder: 8.0
 avatar: /assets/images/peopleImages/jamesyaospring2020.png
-imageMask: 0
+imageMask: 0.0
 permalink: /people/jamesyaospring2020
 links:
   - label: 'Email'

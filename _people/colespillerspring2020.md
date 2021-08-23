@@ -1,10 +1,12 @@
 ---
 layout: author
 name: Cole Spiller
+bio: geoParsing
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/colespillerspring2020.png
-imageMask: 0
+imageMask: 1.0
+profTitle: TRACAR Project Lead
 permalink: /people/colespillerspring2020
 links:
   - label: 'Email'

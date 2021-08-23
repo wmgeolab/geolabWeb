@@ -1,10 +1,12 @@
 ---
 layout: author
 name: Olivia Wachob
+bio: geoData
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/oliviawachobspring2020.png
-imageMask: 0
+imageMask: 1.0
+profTitle: geoData Research Assistant
 permalink: /people/oliviawachobspring2020
 links:
   - label: 'Email'

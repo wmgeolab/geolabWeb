@@ -5,7 +5,7 @@ bio: Assitant Professor at William & Mary in Applied Science and Data Science. P
 type: Faculty
 webOrder: 1.0
 avatar: /assets/images/peopleImages/danrunfolafall2017.png
-imageMask: 1
+imageMask: 1.0
 profTitle: Assistant Professor
 permalink: /people/danrunfolafall2017
 links:
