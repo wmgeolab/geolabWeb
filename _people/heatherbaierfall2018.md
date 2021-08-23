@@ -1,11 +1,12 @@
 ---
 layout: author
 name: Heather Baier
-bio: Staff Researcher
+bio: Data Scientist
 type: Staff
 webOrder: 3.0
 avatar: /assets/images/peopleImages/heatherbaierfall2018.png
-imageMask: 0.0
+imageMask: 1.0
+profTitle: Data Scientist
 permalink: /people/heatherbaierfall2018
 links:
   - label: 'Email'
