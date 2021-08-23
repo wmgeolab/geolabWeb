@@ -1,0 +1,6 @@
+I".<p>Deep learning techniques have revolutionized a number of fields, predominantly based on research from the computer vision community.  The vast majority of literature on this topic has been focused around the use of portrait images - i.e., those taken from earthborne sensors.  Futher, the subset of literature engaged with satellite imagery has nearly entirely focused on scene classification - i.e., identifying if an image of a boat is, in fact, a boat when viewed from a satellite.</p>
+
+<p>The <em>DL4SAT</em> project focuses on something different: improving our capability to extract continious, socioeconomic variables from satellite imagery using deep learning.  It’s built on the simple assumption that as human societies grow and change, so too does their impact on their local environment - from new roof types, to cars, to road infrastructure.</p>
+
+<p>However, deep learning techniques to extract this type of information are exceptionally rare, and our basic understanding of the opportunities and limitations of these strategies of information retrieval is similarly lacking.  <em>DL4SAT</em> bridges this gap, testing and improving deep learning techniques in a range of contexts, from estimating income, to education, to road infrastructure - always focused on continious estimation of social factors.</p>
+:ET
