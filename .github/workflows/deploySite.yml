@@ -18,4 +18,4 @@ jobs:
         FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         FTP_USER: ${{ secrets.FTP_USER }}
       run: |
-           sshpass -p "$FTP_PASSWORD" scp -r /home/runner/work/geolabWeb/geolabWeb $FTP_USER@websh.aws.wm.edu:/www/virtualhosts/geolab.wm.edu/public_html/dev
+           sshpass -p $FTP_PASSWORD scp -r /home/runner/work/geolabWeb/geolabWeb $FTP_USER@websh.aws.wm.edu:/www/virtualhosts/geolab.wm.edu/public_html/dev
