@@ -3,8 +3,8 @@ on:
     
 name: DeployWebsite
 jobs:
-  FTP-Deploy-Action:
-    name: FTP-Deploy-Action
+  deployWebsite:
+    name: rsyncDeploy
     runs-on: ubuntu-latest
     steps:
     - name: Download Changes
