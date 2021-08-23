@@ -97,7 +97,7 @@ for _, row in people.iterrows():
             outStr = outStr + "imageMask: " + str(row["imageMask"]) + "\n"
         if(isinstance(row["Title"], str)):
             outStr = outStr + "profTitle: " + row["Title"] + "\n"
-        outStr = outStr + "permalink: /people/" + row["permalink"] + "\n"
+        outStr = outStr + "permalink: /people/" + row["permalink"] + ".html \n"
         outStr = outStr + "links:\n"
         if(isinstance(row["email"], str)):
             outStr = outStr + "  - label: 'Email'\n"
