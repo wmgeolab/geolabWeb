@@ -6,7 +6,7 @@ webOrder: 8.0
 avatar: /assets/images/peopleImages/sethgoodmanfall2017.png
 imageMask: 0.0
 profTitle: Ph.D. Student
-permalink: /people/sethgoodmanfall2017
+permalink: /people/sethgoodmanfall2017.html 
 links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'

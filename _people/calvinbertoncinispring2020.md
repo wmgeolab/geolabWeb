@@ -7,7 +7,7 @@ webOrder: 5.0
 avatar: /assets/images/peopleImages/calvinbertoncinispring2020.png
 imageMask: 1.0
 profTitle: geoDev Research Assistant
-permalink: /people/calvinbertoncinispring2020
+permalink: /people/calvinbertoncinispring2020.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

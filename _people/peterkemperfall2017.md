@@ -7,7 +7,7 @@ webOrder: 1.0
 avatar: /assets/images/peopleImages/peterkemperfall2017.png
 imageMask: 1.0
 profTitle: Professor
-permalink: /people/peterkemperfall2017
+permalink: /people/peterkemperfall2017.html 
 links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'

@@ -7,7 +7,7 @@ webOrder: 3.0
 avatar: /assets/images/peopleImages/heatherbaierfall2018.png
 imageMask: 1.0
 profTitle: Data Scientist
-permalink: /people/heatherbaierfall2018
+permalink: /people/heatherbaierfall2018.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

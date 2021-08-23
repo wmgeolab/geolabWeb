@@ -7,7 +7,7 @@ webOrder: 5.0
 avatar: /assets/images/peopleImages/carolineedwardsspring2020.png
 imageMask: 1.0
 profTitle: geoData Research Assistant
-permalink: /people/carolineedwardsspring2020
+permalink: /people/carolineedwardsspring2020.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

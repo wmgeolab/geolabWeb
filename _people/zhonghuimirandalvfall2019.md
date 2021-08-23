@@ -6,7 +6,7 @@ webOrder: 4.0
 avatar: /assets/images/peopleImages/zhonghuimirandalvfall2019.png
 imageMask: 0.0
 profTitle: Ph.D. Student
-permalink: /people/zhonghuimirandalvfall2019
+permalink: /people/zhonghuimirandalvfall2019.html 
 links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'

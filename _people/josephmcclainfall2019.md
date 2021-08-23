@@ -7,7 +7,7 @@ webOrder: 7.0
 avatar: /assets/images/peopleImages/josephmcclainfall2019.png
 imageMask: 1.0
 profTitle: Director of Research Communications
-permalink: /people/josephmcclainfall2019
+permalink: /people/josephmcclainfall2019.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

@@ -7,7 +7,7 @@ webOrder: 7.0
 avatar: /assets/images/peopleImages/ericwalterfall2017.png
 imageMask: 1.0
 profTitle: Executive Director, Research Computing
-permalink: /people/ericwalterfall2017
+permalink: /people/ericwalterfall2017.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

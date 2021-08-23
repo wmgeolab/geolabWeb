@@ -6,7 +6,7 @@ webOrder: 4.0
 avatar: /assets/images/peopleImages/karimbahgat.png
 imageMask: 0.0
 profTitle: Ph.D. Student
-permalink: /people/karimbahgat
+permalink: /people/karimbahgat.html 
 links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'

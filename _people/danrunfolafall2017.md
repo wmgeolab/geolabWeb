@@ -7,7 +7,7 @@ webOrder: 1.0
 avatar: /assets/images/peopleImages/danrunfolafall2017.png
 imageMask: 1.0
 profTitle: Assistant Professor
-permalink: /people/danrunfolafall2017
+permalink: /people/danrunfolafall2017.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
