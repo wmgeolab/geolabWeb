@@ -13,6 +13,10 @@ jobs:
         repository: wmgeolab/geolabWeb
         ref: gh-pages
              
-    - run: |
+    - shell: bash
+      env:
+        FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        FTP_USER: ${{ secrets.FTP_USER }}
+    run: |
            apt install sshpass
-           sshpass -p "${{ FTP_PASSWORD }}" scp -r /home/runner/work/geolabWeb/geolabWeb ${{ FTP_USER }}@websh.aws.wm.edu:/www/virtualhosts/geolab.wm.edu/public_html/dev
+           sshpass -p "$FTP_PASSWORD" scp -r /home/runner/work/geolabWeb/geolabWeb $FTP_USER@websh.aws.wm.edu:/www/virtualhosts/geolab.wm.edu/public_html/dev
