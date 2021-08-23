@@ -12,12 +12,12 @@ links:
     icon: 'fas fa-fw fa-envelope square'
     url: mailto:hmbaier@email.wm.edu
 projects:
-  - name: "geoFellows"
-    link: /projects/geofellows/
-  - name: "geoBoundaries"
-    link: /projects/geoboundaries/
-  - name: "Migration and Machine Learning (MML) Project"
-    link: /projects/migration-machine-learning/
+  - name: "Deep Learning for Satellite Imagery (DL4SAT)"
+    link: /projects/dl4sat/
   - name: "Global Education Observatory"
     link: /projects/global-education-observatory/
+  - name: "Migration and Machine Learning (MML) Project"
+    link: /projects/migration-machine-learning/
+  - name: "geoBoundaries"
+    link: /projects/geoboundaries/
 ---

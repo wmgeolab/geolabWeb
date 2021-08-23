@@ -12,4 +12,11 @@ links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
     url: mailto:raoberman@email.wm.edu
+projects:
+  - name: "geoFellows"
+    link: /projects/geofellows/
+  - name: "Climate Intervention Effectiveness Programme (CIEP)"
+    link: /projects/ciep/
+  - name: "Deep Learning for Satellite Imagery (DL4SAT)"
+    link: /projects/dl4sat/
 ---

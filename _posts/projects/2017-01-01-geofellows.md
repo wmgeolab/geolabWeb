@@ -12,6 +12,12 @@ sidebar:
   - title: "geoFellows"
     image: /assets/images/projectImages/geofellows.png
     image_alt: logo
-    text: "<b>Description</b><br />Promoting diversity in STEM by training the next generation of leaders.<br /><b>Timeline:</b><br />Fall 2017 to Present<br /><b>People:</b><br /><a href='/people/danrunfolafall2017'>Dan Runfola</a><br /><a href='/people/heatherbaierfall2018'>Heather Baier</a><br />"
+    text: "<b>Description</b><br />Promoting diversity in STEM by training the next generation of leaders.<br /><b>Timeline:</b><br />Fall 2017 to Present<br /><b>People:</b><br /><a href='/people/danrunfolafall2017'>Dan Runfola</a><br /><a href='/people/rachelobermanfall2017'>Rachel Oberman</a><br /><a href='/people/oliviahettingerfall2019'>Olivia Hettinger</a><br />"
 ---
-The geoFellows program gives students the opportunity to receive monetary support for their leadership activities.  Generally as a team lead or in direct support of an externally-funded project, students get hands on experience working on some of the hardest problems we face today. Students have engaged in geoFellowships in a wide range of contexts - from leading student teams at William & Mary, to summer internships with the United Nations, Department of Defense, and Global Environment Facility.
+The geoFellows program has three core goals, focused on increasing the diversity of leaders in the computational sciences:
+
+1. Increase the number of minorities - especially females - engaged in computational research related topics.
+2. Engage with students enrolled in fields of study that do not usually overlap with computational research - i.e., History, Art, or Dance.
+3. Promote effective leadership in the context of real-world projects.
+
+Each academic year, a competitively selected group of students from universities all across the Commonwealth of Virginia are selected to become a geoFellow, and individual Fellows are assigned into leadership roles within a project that matches their interests.  geoFellows are closely trained by more senior Fellows, and participate in weekly read-outs with both internal and external (i.e., practitioner) stakeholders on relevant projects.  Further, geoFellows become elgiible for a unique slate of summer internship programs to continue their project work.

@@ -11,4 +11,9 @@ links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
     url: mailto:yoforiaddae@email.wm.edu
+projects:
+  - name: "Satellite Data Poisoning Project (SDPP)"
+    link: /projects/sdpp/
+  - name: "Deep Learning for Satellite Imagery (DL4SAT)"
+    link: /projects/dl4sat/
 ---

@@ -8,4 +8,7 @@ avatar: /assets/images/peopleImages/rebeccayoungerman.png
 imageMask: 0.0
 permalink: /people/rebeccayoungerman
 links:
+projects:
+  - name: "Climate Intervention Effectiveness Programme (CIEP)"
+    link: /projects/ciep/
 ---

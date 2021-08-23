@@ -15,6 +15,9 @@ links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'
     url: https://www.wm.edu/offices/it/about/staff/walter_e.php
+projects:
+  - name: "Deep Learning for Satellite Imagery (DL4SAT)"
+    link: /projects/dl4sat/
 ---
 Eric J. Walter obtained his B.S. in chemistry in 1995 from Drexel University and his Ph.D. in chemistry from the University of Pennsylvania in 2001.  His thesis work focused on molecule / metal surface interactions studied with state-of-the-art computational techniques.   
 

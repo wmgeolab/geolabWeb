@@ -11,4 +11,7 @@ links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'
     url: https://www.linkedin.com/in/jianing-zhao-46930347/
+projects:
+  - name: "Climate Intervention Effectiveness Programme (CIEP)"
+    link: /projects/ciep/
 ---

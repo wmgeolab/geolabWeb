@@ -11,4 +11,7 @@ links:
   - label: 'Website'
     icon: 'fas fa-fw fa-link'
     url: https://www.wm.edu/as/appliedscience/graduateprogram/our_students/lv_z.php
+projects:
+  - name: "Deep Learning for Satellite Imagery (DL4SAT)"
+    link: /projects/dl4sat/
 ---
