@@ -1,0 +1,23 @@
+on:
+  schedule:
+    - cron: '0 23 * * *'
+    
+name: DeployAPI
+jobs:
+  FTP-Deploy-Action:
+    name: FTP-Deploy-Action
+    runs-on: ubuntu-latest
+    steps:
+    - name: Download Changes
+      uses: actions/checkout@v2
+      repository: "wmgeolab/geolabWeb"
+      ref: "gh-pages"
+             
+    - name: FTP-Deploy-Action
+      uses: SamKirkland/FTP-Deploy-Action@4.1.0
+      with:
+        server: ${{ secrets.FTP_PATH }}
+        server-dir: /www/virtualhosts/geolab.wm.edu/public_html/dev
+        username: ${{ secrets.FTP_USER }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        git-ftp-args: --dry-run
