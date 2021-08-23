@@ -67,7 +67,7 @@ for _, row in projects.iterrows():
             allProjects = peopleRow["Projects"].split(',')
             for b in allProjects:
                 if(b in row["Project Tag"]):
-                    text = text + "<a href='/people/" + peopleRow["permalink"] + ".html'>" + peopleRow["Name"] + "</a> | "
+                    text = text + "<a href='/people/" + peopleRow["permalink"] + ".html'>" + peopleRow["Name"] + "</a>, "
     
     text = text + '"\n---\n'
 
