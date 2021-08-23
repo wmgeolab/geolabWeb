@@ -12,7 +12,7 @@ sidebar:
   - title: "Migration and Machine Learning (MML) Project"
     image: /assets/images/projectImages/mml.png
     image_alt: logo
-    text: "<b>Description</b><br />Exploring the use of machine learning for predicting and understanding human migratory flows.<br /><b>Timeline:</b><br />Spring 2019 to Present<br /><b>People:</b><br /><a href='/people/danrunfolafall2017'>Dan Runfola</a><br /><a href='/people/lauramillsspring2020'>Laura Mills</a><br /><a href='/people/maevenaughtonfall2020'>Maeve Naughton-Rockwell</a><br /><a href='/people/heatherbaierfall2018'>Heather Baier</a><br /><a href='/people/ethanharrison'>Ethan Harrison</a><br />"
+    text: "<b>Description</b><br />Exploring the use of machine learning for predicting and understanding human migratory flows.<br /><b>Timeline:</b><br />Spring 2019 to Present<br /><b>People:</b><br /><a href='/people/danrunfolafall2017.html'>Dan Runfola</a> | <a href='/people/lauramillsspring2020.html'>Laura Mills</a> | <a href='/people/maevenaughtonfall2020.html'>Maeve Naughton-Rockwell</a> | <a href='/people/heatherbaierfall2018.html'>Heather Baier</a> | <a href='/people/ethanharrison.html'>Ethan Harrison</a> | "
 ---
 **Core Contribution** - Improving our understanding of the highly non-linear impact of climate on human migratory decisions across multiple countries in Latin America.
 
