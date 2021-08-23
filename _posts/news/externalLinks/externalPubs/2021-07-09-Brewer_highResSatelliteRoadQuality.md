@@ -32,6 +32,16 @@ otherAuthors:
   - author: 
     - authorName: Dan Runfola
     - authorLink: danrunfolafall2017
+  - author: 
+    - authorName: Jason Lin
+    - authorLink: jasonlinfall2019
+  - author:
+    - authorName: Peter Kemper
+    - authorLink: peterkemperfall2017
+  - author:
+    - authorName: John Hennin
+    - authorLink: johnhenninspring2020
+
 
 #Don't edit:
 entryType: news

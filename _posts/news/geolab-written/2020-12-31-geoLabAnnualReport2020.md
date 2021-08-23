@@ -21,6 +21,13 @@ tags: history
 #Type of Article (news, journal, or report)
 artType: news
 
+author: Dan Runfola
+
+otherAuthors: 
+  - author: 
+    - authorName: Olivia Hettinger
+    - authorLink: oliviahettingerfall2019
+
 #Don't edit:
 entryType: news
 ---

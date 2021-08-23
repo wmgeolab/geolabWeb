@@ -61,14 +61,22 @@ layout: default
 
         {%if primaryArticles.size > 0 or secondaryArticles == 1 %} <b>Articles: </b> {% endif %}
         {% for post in primaryArticles %}
+          {% if post.link %}
+          <br /><a href="{{ post.link | absolute_url }}">{{ post.title }}</a>
+          {% else %}
           <br /><a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+          {% endif %}
         {% endfor %}
 
         {% for singlePost in site.posts %}
           {% for singleAuthor in singlePost.otherAuthors %}
           {% for attribute in singleAuthor.author %}
           {% if attribute.authorName == page.name %}
+          {% if singlePost.link %}
+          <br /><a href="{{ singlePost.link | absolute_url }}">{{ singlePost.title }}</a>
+          {% else %}
           <br /><a href="{{ singlePost.url | absolute_url }}">{{ singlePost.title }}</a>
+          {% endif %}
             {% endif %}
 
             {% endfor %}

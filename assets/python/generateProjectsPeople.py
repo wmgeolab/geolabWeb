@@ -69,6 +69,9 @@ for _, row in projects.iterrows():
                 if(b in row["Project Tag"]):
                     text = text + "<a href='/people/" + peopleRow["permalink"] + ".html'>" + peopleRow["Name"] + "</a>, "
     
+    #Remove the last trailing comma
+    text = text[:-2]
+    
     text = text + '"\n---\n'
 
     text = text + row["Full Description (Can add links using HTML)*"]

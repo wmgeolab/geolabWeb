@@ -21,6 +21,31 @@ tags: geopolitics geo-int satellite-imagery policy-report geoint
 #Type of Article (news, journal, or report)
 artType: report
 
+author: Matthew Crittenden
+
+otherAuthors: 
+  - author: 
+    - authorName: Caroline Morin
+    - authorLink: carolinemorinspring2020
+  - author:
+    - authorName: Emily Maison
+    - authorLink: emilymaisonfall2019
+  - author:
+    - authorName: Remington Fritz
+    - authorLink: remingtonfritzspring2020
+  - author: 
+    - authorName: William Weston
+    - authorLink: williamwestonspring2020
+  - author:
+    - authorName: Kaitlyn Wilson
+    - authorLink: kaitlynwilsonfall2020
+  - author: 
+    - authorName: Sophie Pittaluga
+    - authorLink: sophiepittalugaspring2021
+  - author:
+    - authorName: Asha Silva
+    - authorLink: ashasilvafall2020
+
 #Don't edit:
 entryType: news
 ---

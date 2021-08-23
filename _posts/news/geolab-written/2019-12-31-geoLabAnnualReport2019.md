@@ -21,6 +21,8 @@ tags: history
 #Type of Article (news, journal, or report)
 artType: news
 
+author: Dan Runfola
+
 #Don't edit:
 entryType: news
 ---

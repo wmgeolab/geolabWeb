@@ -22,6 +22,8 @@ tags: climate-change satellite-imagery policy-report
 #Type of Article (news, journal, or report)
 artType: report
 
+author: Dan Runfola
+
 #Don't edit:
 entryType: news
 ---
