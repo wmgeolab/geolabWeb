@@ -16,7 +16,7 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
-        server: sftp://websh.aws.wm.edu
+        server: websh.aws.wm.edu
         server-dir: /www/virtualhosts/geolab.wm.edu/public_html/dev/
         username: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PASSWORD }}
