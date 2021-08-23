@@ -19,4 +19,4 @@ jobs:
         FTP_USER: ${{ secrets.FTP_USER }}
       run: |
            pwd
-           sshpass -p $FTP_PASSWORD rsync -e "ssh -o StrictHostKeyChecking=no" -avO /home/runner/work/geolabWeb/geolabWeb/ $FTP_USER@websh.aws.wm.edu:/www/virtualhosts/geolab.wm.edu/public_html/
+           sshpass -p $FTP_PASSWORD rsync -e "ssh -o StrictHostKeyChecking=no" -av --no-o --no-g /home/runner/work/geolabWeb/geolabWeb/ $FTP_USER@websh.aws.wm.edu:/www/virtualhosts/geolab.wm.edu/public_html/
