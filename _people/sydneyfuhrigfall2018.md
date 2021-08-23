@@ -6,7 +6,7 @@ type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/sydneyfuhrigfall2018.png
 imageMask: 0.0
-permalink: /people/sydneyfuhrigfall2018
+permalink: /people/sydneyfuhrigfall2018.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

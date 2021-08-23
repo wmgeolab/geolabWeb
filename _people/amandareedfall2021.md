@@ -6,7 +6,7 @@ type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/amandareedfall2021.png
 imageMask: 0.0
-permalink: /people/amandareedfall2021
+permalink: /people/amandareedfall2021.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

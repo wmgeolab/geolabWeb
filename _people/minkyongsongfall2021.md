@@ -6,7 +6,7 @@ type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/minkyongsongfall2021.png
 imageMask: 0.0
-permalink: /people/minkyongsongfall2021
+permalink: /people/minkyongsongfall2021.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

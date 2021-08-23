@@ -6,7 +6,7 @@ type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/andrewpeckfall2019.png
 imageMask: 0.0
-permalink: /people/andrewpeckfall2019
+permalink: /people/andrewpeckfall2019.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

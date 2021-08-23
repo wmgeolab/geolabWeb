@@ -6,7 +6,7 @@ type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/lindseyrogersfall2020.png
 imageMask: 0.0
-permalink: /people/lindseyrogersfall2020
+permalink: /people/lindseyrogersfall2020.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

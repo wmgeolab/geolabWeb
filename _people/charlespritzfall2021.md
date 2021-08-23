@@ -6,7 +6,7 @@ type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/charlespritzfall2021.png
 imageMask: 0.0
-permalink: /people/charlespritzfall2021
+permalink: /people/charlespritzfall2021.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

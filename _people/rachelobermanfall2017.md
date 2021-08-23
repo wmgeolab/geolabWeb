@@ -7,7 +7,7 @@ webOrder: 8.0
 avatar: /assets/images/peopleImages/rachelobermanfall2017.png
 imageMask: 1.0
 profTitle: Undergraduate Director
-permalink: /people/rachelobermanfall2017
+permalink: /people/rachelobermanfall2017.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

@@ -5,7 +5,7 @@ type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/jackbowdenfall2018.png
 imageMask: 0.0
-permalink: /people/jackbowdenfall2018
+permalink: /people/jackbowdenfall2018.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

@@ -7,7 +7,7 @@ webOrder: 8.0
 avatar: /assets/images/peopleImages/matthewcrittendenfall2018.png
 imageMask: 1.0
 profTitle: geoParsing Team Lead
-permalink: /people/matthewcrittendenfall2018
+permalink: /people/matthewcrittendenfall2018.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'

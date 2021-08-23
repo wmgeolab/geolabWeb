@@ -6,7 +6,7 @@ type: Former Members
 webOrder: 8.0
 avatar: /assets/images/peopleImages/nolanmaspring2019.png
 imageMask: 0.0
-permalink: /people/nolanmaspring2019
+permalink: /people/nolanmaspring2019.html 
 links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
