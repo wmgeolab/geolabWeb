@@ -9,8 +9,9 @@ jobs:
     steps:
     - name: Download Changes
       uses: actions/checkout@v2
-      repository: "wmgeolab/geolabWeb"
-      ref: "gh-pages"
+      with:
+        repository: wmgeolab/geolabWeb
+        ref: gh-pages
              
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
