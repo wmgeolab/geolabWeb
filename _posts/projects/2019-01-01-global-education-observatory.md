@@ -2,7 +2,7 @@
 title: "Global Education Observatory"
 header:
   teaser: /assets/images/projectImages/globalEducation.png
-categories: Vibrancy, Sustainability
+categories: Vibrancy Sustainability
 entryType: project
 layout: singleProjects
 permalink: /projects/global-education-observatory/

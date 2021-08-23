@@ -3,7 +3,7 @@ title: "Migration and Machine Learning (MML) Project"
 funders: <a href='https://www.dhs.gov/'>United States Department of Homeland Security</a><br />
 header:
   teaser: /assets/images/projectImages/mml.png
-categories: Sustainability, Security
+categories: Sustainability Security
 entryType: project
 layout: singleProjects
 permalink: /projects/migration-machine-learning/
