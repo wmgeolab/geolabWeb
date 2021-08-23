@@ -14,10 +14,10 @@ jobs:
         ref: gh-pages
              
     - name: FTP-Deploy-Action
-      uses: SamKirkland/FTP-Deploy-Action@4.1.0
+      uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        server: websh.aws.wm.edu
+        ftp-server: websh.aws.wm.edu
         server-dir: /www/virtualhosts/geolab.wm.edu/public_html/dev/
-        username: ${{ secrets.FTP_USER }}
-        password: ${{ secrets.FTP_PASSWORD }}
-        git-ftp-args: --dry-run
+        ftp-username: ${{ secrets.FTP_USER }}
+        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        git-ftp-args: --dry-run --insecure
