@@ -84,6 +84,7 @@ for _, row in projects.iterrows():
 #People
 for _, row in people.iterrows():
     if(isinstance(row["Name"], str)):
+        print(row["Name"])
         outStr = "---\n"
         outStr = outStr + "layout: author\n"
         outStr = outStr + "name: " + row["Name"] + "\n"

@@ -17,7 +17,7 @@ categories: Sustainability
 
 #Tags.  Spaces delimit new tags. To see all current tags, type "/tags/" on the live website URL.
 #Most news articles should be linked to a project via the project tag (though not necessarilly all)
-tags: climate-change satellite-imagery peer-review
+tags: climate-change satellite-imagery peer-review ciep
 
 #Type of Article (news, journal, or report)
 artType: journal

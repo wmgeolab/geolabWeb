@@ -17,7 +17,7 @@ categories: Security Sustainability
 
 #Tags.  Spaces delimit new tags. To see all current tags, type "/tags/" on the live website URL.
 #Most news articles should be linked to a project via the project tag (though not necessarilly all)
-tags: roadrunner deep-learning satellite-imagery peer-review
+tags: sdpp dl4sat deep-learning satellite-imagery peer-review
 
 #Type of Article (news, journal, or report)
 artType: journal

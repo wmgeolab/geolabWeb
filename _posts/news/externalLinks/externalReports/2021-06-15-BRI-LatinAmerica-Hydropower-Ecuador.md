@@ -16,7 +16,7 @@ header:
 categories: Security
 
 #Tags.  Spaces delimit new tags. To see all current tags, type "/tags/" on the live website URL.
-tags: geopolitics geo-int satellite-imagery policy-report
+tags: geopolitics geo-int satellite-imagery policy-report geoint
 
 #Type of Article (news, journal, or report)
 artType: report

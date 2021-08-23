@@ -21,7 +21,7 @@ header:
 categories: Vibrancy
 
 #Tags.  Spaces delimit new tags. To see all current tags, type "/tags/" on the live website URL.
-tags: history student-leadership public-summary
+tags: history student-leadership public-summary geofellows
 
 #Author of the news article.  Authors must be added into the system, so if this is your first article
 #Let us know.
