@@ -14,3 +14,17 @@ Joseph McClain:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/@STEM_at_WM"
+
+Lulu Dawes:
+  name        : "Lulu Dawes"
+  bio         : "Journalist working with the geoLab."
+  longBio     : "Ms. Lulu Dawes worked as a journalist for the geoLab starting in 2020, and has written public-facing articles on scientific research for a wide range of different projects."
+  avatar      : "/assets/images/peopleImages/elizabethdawesfall2020.png"
+  home        : "/people/elizabethdawesfall2020.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:esdawes@email.wm.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://geolab.wm.edu/people/elizabethdawesfall2020.png"
