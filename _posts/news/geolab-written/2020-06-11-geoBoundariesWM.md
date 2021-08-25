@@ -11,7 +11,7 @@ permalink: /news/geoboundariesintro/
 #Your image.  You can have two different images (i.e., one for a small teaser and one large header), or just one.
 #Images can also be embedded in the article if you want, but this is what comes up on searches and on the site.
 header:
-  teaser: /assets/images/newsImages/geolab475.jpg
+  teaser: /assets/images/newsImages/new-geo-475.jpg
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/newsImages/new-geo-475.jpg
