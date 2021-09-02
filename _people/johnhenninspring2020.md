@@ -13,8 +13,10 @@ links:
     icon: 'fas fa-fw fa-envelope square'
     url: mailto:jhennin@email.wm.edu
 projects:
-  - name: "Global Education Observatory"
-    link: /projects/global-education-observatory/
   - name: "Deep Learning for Satellite Imagery (DL4SAT)"
     link: /projects/dl4sat/
+  - name: "Satellite Data Poisoning Project (SDPP)"
+    link: /projects/sdpp/
+  - name: "Global Education Observatory"
+    link: /projects/global-education-observatory/
 ---
