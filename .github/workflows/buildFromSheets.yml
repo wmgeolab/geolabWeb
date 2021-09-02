@@ -41,4 +41,23 @@ jobs:
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.DRTOKEN }}
+  deployWebsite:
+      needs: buildgeoLabWebsite
+      name: rsyncDeploy
+      runs-on: ubuntu-latest
+      steps:
+      - name: Download Changes
+        uses: actions/checkout@v2
+        with:
+          repository: wmgeolab/geolabWeb
+          ref: gh-pages
+
+      - shell: bash
+        env:
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+        run: |
+             pwd
+             sshpass -p $FTP_PASSWORD rsync -e "ssh -o StrictHostKeyChecking=no" -av --no-o --no-g /home/runner/work/geolabWeb/geolabWeb/ $FTP_USER@websh.aws.wm.edu:/www/virtualhosts/geolab.wm.edu/public_html/
+
       
