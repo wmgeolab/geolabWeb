@@ -12,4 +12,7 @@ links:
   - label: 'Email'
     icon: 'fas fa-fw fa-envelope square'
     url: mailto:ehwolman@email.wm.edu
+projects:
+  - name: "Global Education Observatory"
+    link: /projects/global-education-observatory/
 ---
