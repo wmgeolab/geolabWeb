@@ -19,7 +19,7 @@ categories: Vibrancy Sustainability Security
 tags: history
 
 #Type of Article (news, journal, or report)
-artType: news
+artType: summaryNews
 
 author: Dan Runfola
 

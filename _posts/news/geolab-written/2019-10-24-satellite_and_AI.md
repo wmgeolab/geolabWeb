@@ -37,7 +37,7 @@ otherAuthors:
     
 
 #Type of Article (news, journal, or report)
-artType: news
+artType: summaryNews
 
 #Don't edit these three
 entryType: news

@@ -1,6 +1,6 @@
 ---
 #Title of Linked Article
-title: "China’s BRI in Latin America: Case Study – Hydropower in Bolivia"
+title: "Hydropower in Bolivia - Monitoring Chinese Activities from Space"
 
 #A very (very!) short excerpt of your article.  No more than one sentence, optimally less than 10 words.
 excerpt: "This Tearline article examines evidence of six Chinese BRI hydroelectric power projects in Bolivia."

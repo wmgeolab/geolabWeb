@@ -1,6 +1,6 @@
 ---
 #Title of Linked Article
-title: "China’s BRI in Latin America: Case Study – Ports"
+title: "Using Ultra-high Resolution Satellite Imagery to Monitor China’s BRI in Latin America: Ports"
 
 #A very (very!) short excerpt of your article.  No more than one sentence, optimally less than 10 words.
 excerpt: "Across seven BRI port projects in Central America and the Caribbean, we find evidence that the project partnerships between China and recipient countries vary significantly regarding construction processes and end results."

@@ -19,7 +19,7 @@ categories: Sustainability
 tags: climate-change satellite-imagery policy-report ciep
 
 #Type of Article (news, journal, or report)
-artType: news
+artType: summaryNews
 
 #Author of the news article.  Authors must be added into the system, so if this is your first article
 #Let us know.

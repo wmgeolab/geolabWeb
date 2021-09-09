@@ -1,6 +1,6 @@
 ---
 #Title of Linked Article
-title: "China’s BRI in Latin America: Case Study – Sustainable Energy in Cuba"
+title: "Monitoring Sustainable Energy in Cuba with High Resolution Satellite Imagery"
 
 #A very (very!) short excerpt of your article.  No more than one sentence, optimally less than 10 words.
 excerpt: " The article uses the Chinese financing of sustainable energy projects in Cuba as a case study, analyzing why energy projects have been sustainable in Cuba and evaluating whether the projects are successful."
