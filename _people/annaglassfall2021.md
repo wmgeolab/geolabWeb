@@ -5,7 +5,8 @@ bio: geoParsing
 type: Undergraduate Students
 webOrder: 5.0
 avatar: /assets/images/peopleImages/annaglassfall2021.png
-imageMask: 0.0
+imageMask: 1.0
+profTitle: geoParsing Research Assistant
 permalink: /people/annaglassfall2021.html 
 links:
   - label: 'Email'
