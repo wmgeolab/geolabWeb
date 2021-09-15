@@ -1,7 +1,7 @@
 ---
 layout: author
 name: Dan Runfola
-bio: Assitant Professor at William & Mary in Applied Science and Data Science. Principal Investigator of the geoLab.
+bio: Assitant Professor at William & Mary in Applied Science and Data Science.
 type: Faculty
 webOrder: 1.0
 avatar: /assets/images/peopleImages/danrunfolafall2017.png
