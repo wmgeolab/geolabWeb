@@ -1,0 +1,44 @@
+on:
+  workflow_dispatch
+  
+name: compressImages
+jobs:
+  compressPeopleImages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone Repo
+        id: buildCheck
+        run: |
+             git clone https://github.com/wmgeolab/geolabWeb
+             pwd
+             ls
+
+      - name: Compress Images
+        id: compressImages
+        run: |
+              pip install pillow
+              python /home/runner/work/geolabWeb/geolabWeb/geolabWeb/assets/python/compressPeopleImages.py
+              ls
+              ls geolabWeb
+              ls geolabWeb/assets/images/peopleImages
+              
+      - name: Push Updates
+        id: pushUpdates
+        env:
+           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+           DRTOKEN: ${{secrets.DRTOKEN}}
+        run: |
+           cd geolabWeb
+           git config --local user.email "danr@wm.edu"
+           git config --local user.name "DanRunfola"
+           git fetch
+           git add -A .
+           git remote set-url origin https://x-access-token:${{ secrets.DRTOKEN }}@github.com/$GITHUB_REPOSITORY
+           git diff-index --quiet HEAD || git commit -m "Automated Image Compression"
+           git status
+           git push origin main 
+           
+      - uses: actions/checkout@v2
+      - uses: helaili/jekyll-action@v2
+        with:
+          token: ${{ secrets.DRTOKEN }}
