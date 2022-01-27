@@ -1,0 +1,46 @@
+---
+#Your title
+title: "geoLab 2021 Annual Report"
+
+#A very (very!) short excerpt of your article.  No more than one sentence, optimally less than 10 words.
+excerpt: "Highlights from 2021"
+
+#URL of the article you're linking to:
+link: assets/static_files/geoLab 2021 Annual Report.pdf
+
+#Your image.  You can have two different images (i.e., one for a small teaser and one large header), or just one.
+#Images can also be embedded in the article if you want, but this is what comes up on searches and on the site.
+header:
+  teaser: assets/images/newsImages/geolab annual report cover image.png
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/newsImages/geolab475.jpg
+  caption: "Geospatial Evaluation and Observation Lab"
+
+#Should be one or more of Vibrancy, Sustainability, and Security.
+categories: Vibrancy Sustainability Security
+
+#Tags.  Spaces delimit new tags. To see all current tags, type "/tags/" on the live website URL.
+tags: student-leadership undergraduate-research
+
+#Author of the news article.  Authors must be added into the system, so if this is your first article
+#Let us know.
+author: Dan Runfola
+
+#Name of any other authors.  Only the main author's picture shows up on the article, but this allows for
+#linking on bio pages.  Other Authors do not need to be added into the system, as long as they have student pages.
+#Note that authorLink MUST be before authorName in the below.
+otherAuthors: 
+  - author: 
+    - authorLink: oliviahettingerfall2019
+    - authorName: Olivia Hettinger
+    
+
+#Type of Article (news, journal, or report)
+artType: summaryNews
+
+#Don't edit these three
+entryType: news
+layout: singleNews
+author_profile: true
+---
