@@ -6,5 +6,8 @@ main:
     url: /about/
   - title: "In the News"
     url: /news/
+  - title: "Get Datasets"
+    url: /data/
   - title: "Get Involved"
     url: /getInvolved/
+

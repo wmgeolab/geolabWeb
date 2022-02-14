@@ -1,0 +1,47 @@
+---
+title: Get Datasets
+layout: single
+permalink: /data/
+classes: wide
+---
+<div style="background-color:#d8ebf1; margin:2em 0 !important; padding:1em; ">
+<p style="margin-bottom:5px;">
+Datasets available on this website are licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY Attribution 4.0</a>.  <b>Attribution must be provided for the use of any of our data. </b>The specific article you are required to reference for each dataset is denoted below.</p>
+
+</div>
+
+<div style="background-color:#69cf99; margin:2em 0 !important; padding:1em; ">
+    <p style="margin-bottom:5px;">
+        <h3 style="font-size:30px; margin-top:15px;">53,677 Labeled Aerial Images of Road Infrastructure (Road Roughness)</h3>
+        <b>Description: </b> This project sought to explore the degree to which we can estimate road quality from high resolution satellite imagery, with training labels collected during 2020 and 2021 via a custom android application and dedicated android hardware.<br />
+        <b>Imagery:</b> Each image is a (variably sized) crop of road imagery, representing an aerial image of a road segment for which road roughness information was collected.  Imagery was collected as a part of the Virginia Basemap Program, and provided as both 8 and 16 bitmaps.  Files are labeled following a [Date]_[ID]_[bitmap].png format, with [ID] being a value that can link to the labels and [bitmap] being a value of either 8 or 16.<br />
+        <b>Labels:</b> Two labels are provided for each image - a classification (0, 1 or 2) representing road roughness, with 0 values indicating low roughness and 2 indicating very high roughness; the second label is a continious metric of roughness derived more directly from the roughness sensors. More information on how these values were derived can be found at the below citation (under requirements for use).<br />
+        <b>Requirements for Use: </b> Any use of these data should cite Brewer, E., Kemper, P., Lin, J., Hennin, J., and Runfola, D. 2021. Predicting Road Quality using High Resolution Satellite Imagery: A Transfer Learning Approach. PLoS One. https://doi.org/10.1371/journal.pone.0253370 <br />
+    </p>
+    <a href="https://geolab.wm.edu/assets/static_files/roadrunner_pngs.tar.gz"><span style="color:black;border:2px double black; background-color:#00B388; border-radius:10px; padding:5px;"><b>Download Images (7.9GB)</b></span></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geolab.wm.edu/assets/static_files/roadRunner_labels.csv"><span style="color:black;border:2px double black; background-color:#00B388; border-radius:10px; padding:5px;"><b>Download Labels</b></span></a>
+</div>
+
+<div style="background-color:#69cf99; margin:2em 0 !important; padding:1em; ">
+    <p style="margin-bottom:5px;">
+        <h3 style="font-size:30px; margin-top:15px;">5,505 Labeled Satellite Images of Schools (Test Scores)</h3>
+        <b>Description: </b> This data was used (in part) to explore the capability of satellite imagery to be used in the estimation of school test scores to offset gaps in measurements throughout much of the developing world.<br />
+        <b>Imagery:</b> Each image is a 256x256 pixel crop of the school and surrounding areas retrieved from the Landsat satellite series.  Imagery was collected from circa September of 2013 to June of 2014, with a single cloud-free composite being constructed from the full time series.  Imagery is named in the format "[ID]_[TimePeriod].png", in which [ID] is the ID of the school (cross-linked with the labels CSV file), and [TimePeriod] is the range of dates the imagery was retrieved for. <br />
+        <b>Labels:</b> Each image is labeled with a value ranging from 0 to 40, representing the average test score of all students within a given school in the Philippines.  This data was retrieved through Freedom of Information requests made to the Philippines government for information on the Philippines' 2013-2014 National Achievement Test. <br />
+        <b>Requirements for Use: </b> Any use of these data should cite Runfola, D., Stefanidis, A., Baier, H., 2021. Using Satellite Data and Deep Learning to Estimate Educational Outcomes in Data Sparse Environments. Remote Sensing Letters 13(1). https://doi.org/10.1080/2150704X.2021.1987575 <br />
+    </p>
+    <a href="https://geolab.wm.edu/assets/static_files/y1314_landsat_imagery.zip"><span style="color:black;border:2px double black; background-color:#00B388; border-radius:10px; padding:5px;"><b>Download Images (406 MB)</b></span></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geolab.wm.edu/assets/static_files/y1314_testscores.csv"><span style="color:black;border:2px double black; background-color:#00B388; border-radius:10px; padding:5px;"><b>Download Labels</b></span></a>
+</div>
+
+
+
+<div style="background-color:#69cf99; margin:2em 0 !important; padding:1em; ">
+    <p style="margin-bottom:5px;">
+        <h3 style="font-size:30px; margin-top:15px;">geoBoundaries</h3>
+        <b>Description: </b>Built by the community and William & Mary geoLab, the geoBoundaries Global Database of Political Administrative Boundaries Database is an online, open license resource of boundaries (i.e., state, county) for every country in the world. We currently track approximately 1 million boundaries within over 200 entities, including all 195 UN member states. All boundaries are available to view or download in common file formats, including shapefiles. <br />
+        <b>Requirements for Use: </b> Any use of geoBoundaries should cite or otherwise acknowledge Runfola, D. et al. (2020) geoBoundaries: A global database of political administrative boundaries. PLoS ONE 15(4): e0231866. https://doi.org/10.1371/journal.pone.0231866.  More specific usage examples can be seen at <a href="https://www.geoboundaries.org/index.html#citation">geoboundaries.org.</a> <br />
+    </p>
+    <a href="https://www.geoboundaries.org/index.html#getdata"><span style="color:black;border:2px double black; background-color:#00B388; border-radius:10px; padding:5px;"><b>Download geoBoundaries</b></span></a>
+</div>
+
+
+
