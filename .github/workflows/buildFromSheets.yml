@@ -41,6 +41,7 @@ jobs:
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.DRTOKEN }}
+          target_branch: gh-pages
   deployWebsite:
       needs: buildgeoLabWebsite
       name: rsyncDeploy
