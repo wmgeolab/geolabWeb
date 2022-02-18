@@ -56,4 +56,4 @@ Alternatively, the humanitarian data sets come from NGOs like HDX or HumData whi
 
 Overall, the geoLab provides unique opportunities to lead, research, and publish, that are otherwise difficult to find in undergraduate settings. Students build technical skills with data analysis and GIS, and enhance their understanding of border conflicts across the world. The Lab gives students the opportunity to work directly with external partners like ESRI, the UN, and the WHO, setting students up for success upon graduation with workforce skills one cannot learn in a classroom setting. Ultimately, the geoLab provides students with excellent research opportunities and in turn those students provide deeply needed research to the field. With that, we are so excited to bring you, finally, geoBoundaries 4.0. 
 
-	The geoBoundaries 4.0 data can be found on the geoBoundaries website and on the Harvard Dataverse. The corresponding article can be found on PLOS One.
+The geoBoundaries 4.0 data can be found on the geoBoundaries website and on the Harvard Dataverse. The corresponding article can be found on PLOS One.
