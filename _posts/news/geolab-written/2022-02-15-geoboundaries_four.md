@@ -14,7 +14,7 @@ header:
   teaser: /assets/images/newsImages/World1.jpg
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/newsImages/geolab475.jpg
+  overlay_image: /assets/images/newsImages/World1.jpg
   caption: "geoBoundaries 4.0 Coverage"
 #Should be one or more of Vibrancy, Sustainability, and Security.
 categories: Vibrancy
