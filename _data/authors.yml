@@ -28,3 +28,16 @@ Lulu Dawes:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://geolab.wm.edu/people/elizabethdawesfall2020.png"
+      
+Tara McLaughlin:
+  name        : "Tara McLaughlin"
+  bio         : "geoBoundaries Research Assistant"
+  avatar      : "/assets/images/peopleImages/taramclaughlinfall2020.png"
+  home        : "/people/taramclaughlinfall2020.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tcmclaughlin@wm.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://geolab.wm.edu/people/taramclaughlinfall2020.png"
