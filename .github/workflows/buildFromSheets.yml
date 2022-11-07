@@ -61,6 +61,8 @@ jobs:
           FTP_USER: ${{ secrets.FTP_USER }}
         run: |
              pwd
+             cd /home/runner/work/geolabWeb/geolabWeb/
+             git lfs fetch --all
              sshpass -p $FTP_PASSWORD rsync -e "ssh -o StrictHostKeyChecking=no" -av --no-o --no-g /home/runner/work/geolabWeb/geolabWeb/ $FTP_USER@websh.aws.wm.edu:/www/virtualhosts/geolab.wm.edu/public_html/ --omit-dir-times
 
       
