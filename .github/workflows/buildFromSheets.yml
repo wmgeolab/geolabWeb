@@ -52,7 +52,7 @@ jobs:
         with:
           repository: wmgeolab/geolabWeb
           ref: gh-pages
-
+          lfs: true
       - shell: bash
         env:
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
