@@ -64,6 +64,6 @@ jobs:
              cd /home/runner/work/geolabWeb/geolabWeb/
              git lfs fetch --all
              git lfs pull
-             sshpass -p $FTP_PASSWORD rsync -e "ssh -o StrictHostKeyChecking=no" -av --exclude 'assets/static_files' --no-o --no-g /home/runner/work/geolabWeb/geolabWeb/ $FTP_USER@websh.aws.wm.edu:/www/virtualhosts/geolab.wm.edu/public_html/ --delete --omit-dir-times 
+             sshpass -p $FTP_PASSWORD rsync -e "ssh -o StrictHostKeyChecking=no" -av --exclude 'assets/static_files' --no-o --no-g --delete /home/runner/work/geolabWeb/geolabWeb/ $FTP_USER@websh.aws.wm.edu:/www/virtualhosts/geolab.wm.edu/public_html/  
 
       
