@@ -36,6 +36,7 @@ jobs:
            git diff-index --quiet HEAD || git commit -m "Automated Build"
            git status
            git push origin main 
+           git config --global --add safe.directory /github/workspace
            
       - uses: actions/checkout@v2
         with:
